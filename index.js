@@ -1,46 +1,41 @@
 const request = require('request');
 const dataExample = require('./data');
+const pets = require('./pets');
+const tertiaryDrops = require('./tertiaryDrops');
 
-let url = `https://oldschool.runescape.wiki/w/Vorkath?action=raw`
+let chosenMonster = 'Vorkath';
+let url = 'https://oldschool.runescape.wiki/w/'+chosenMonster+'?action=raw'
 let exampledata = JSON.stringify(dataExample.dataExample);
-let petList = ["Abyssal orphan", "Baby mole", "Callisto cub", "Hellpuppy", "Kalphite princess", "Noon", "Midnight", "Olmlet", "Pet chaos elemental", "Pet dagannoth prime", "Pet dagannoth supreme",
-"Pet dagannoth rex", "Pet dark core", "Pet general graardor", "Pet k'ril tsutsaroth", "Pet kraken", "Pet kree'arra", "Pet smoke devil", "Pet zilyana", "Pet snakeling", "Prince black dragon",
-"Scorpia's offspring", "Skotos", "Tzrek-jad", "Venenatis spiderling", "Vet'ion jr.", "Vorki"];
-let extraDropsList = ["Ensouled goblin head", "Ensouled monkey head", "Ensouled imp head", "Ensouled minotaur head", "Ensouled scorpion head", "Ensouled bear head", "Ensouled unicorn head",
-"Ensouled dog head", "Ensouled chaos druid head", "Ensouled giant head", "Ensouled ogre head", "Ensouled elf head", "Ensouled troll head", "Ensouled horror head", "Ensouled kalphite head",
-"Ensouled dagannoth head", "Ensouled bloodveld head", "Ensouled tzhaar head", "Ensouled demon head", "Ensouled aviansie head", "Ensouled abyssal head", "Ensouled dragon head", "Long bone",
-"Curved bone", "Ancient shard", "Mysterious emblem", "Clue scroll (easy)", "Clue scroll (medium)", "Clue scroll (hard)", "Clue scroll (elite)", "Clue scroll (master)", "Metamorphic dust",
-"Dark totem base", "Dark totem middle", "Dark totem top", "Wolf bone", "Bat wing", "Rat bone", "Baby blue dragon bone", "Ogre ribs", "Jogre bone", "Zogre bone", "Mogre bone", "Dagannoth ribs",
-"Snake spine", "Zombie bone", "Werewolf bone", "Moss giant bone", "Fire giant bone", "Ice giant ribs", "Terrorbird wing", "Ghoul bone", "Troll bone", "Seagull wing", "Undead cow ribs",
-"Experiment bone", "Rabbit bone", "Basilisk bone", "Desert lizard bone", "Cave goblin skull", "Vulture wing", "Jackal bone", "Goblin skull", "Big frog leg", "Bear ribs", "Ram skull", "Unicorn bone",
-"Monkey paw", "Giant rat bone", "Giant bat wing", "Imp champion scroll", "Goblin champion scroll", "Skeleton champion scroll", "Zombie champion scroll", "Giant champion scroll",
-"Hobgoblin champion scroll", "Ghoul champion scroll", "Earth warrior champion scroll", "Jogre champion scroll", "Lesser demon champion scroll", "Human champion scroll", "Looting bag",
-"Slayer's enchantment", "Vorkath's Head"];
+let petList = pets.pets;
+let extraDropsList = tertiaryDrops.tertiaryDrops;
+
 request(url, function(error, response, body) {
   var data = JSON.stringify(body);
-  handleMonsterData(data);
+  var monsterDataMasterList = handleMonsterData(data);
+  console.log(monsterDataMasterList);
   }
 );
-//handleMonsterData(exampledata);
+// var monsterDataMasterList = handleMonsterData(exampledata);
+// console.log(monsterDataMasterList);
 
-
-function handleMonsterData(data){
-  let monsterStatsString = cutOutPortionOfText(data, "|item1=", "|text1=");
-  var monsterStats = parseMonsterStats(monsterStatsString);
-  var monsterDrops = parseMonsterDrops(data);
-  console.log(monsterDrops);
-  console.log(monsterDrops.other);
-  console.log(monsterStats);
-
-}
-
-
-
-function cutOutPortionOfText(data, startWord, stopWord){
-  let startIndex = data.indexOf(startWord) + startWord.length;
-  let stopIndex = data.indexOf(stopWord);
-  return (data.slice(startIndex, stopIndex));
-}
+function handleMonsterData(data) {
+  let fullMonsterData = {};
+  let parseMonsterDropsResult = parseMonsterDrops(data);
+  fullMonsterData.drops = parseMonsterDropsResult.drops;
+  let monsterVarianceCount = countMonsterVariants(data);
+  let monsterStatsString = data.slice(data.indexOf("|item1="), data.indexOf("|text"+monsterVarianceCount+"="));
+  let monsterStatsAllLevels = [];
+  let i;
+  let len = monsterVarianceCount;
+  for (i=0; i<len; i++) {
+    let statString = data.slice(data.indexOf("|item"+(i+1)+"="), data.indexOf("|text"+(i+1)+"="));
+    let monsterStats = parseMonsterStats(statString);
+    monsterStats.raredroptable = parseMonsterDropsResult.raredroptable;
+    monsterStatsAllLevels.push(monsterStats);
+  };
+  fullMonsterData.attributes = monsterStatsAllLevels;
+  return fullMonsterData;
+};
 
 function parseMonsterStats(string) {
   let lines = string.split("\\n");
@@ -55,6 +50,10 @@ function parseMonsterStats(string) {
       attributes.members = lines[i].split("|members = ").pop();
     } else if (lines[i].includes("|examine = ")) {
       attributes.examine = lines[i].split("|examine = ").pop();
+    } else if (lines[i].includes("|hit points = ") || lines[i].includes("|hp = ")) {
+      attributes.hitpoints = lines[i].split("= ").pop();
+    } else if (lines[i].includes("|combat = ") || lines[i].includes("|cb = ")) {
+      attributes.combatlvl = lines[i].split("= ").pop();
     } else if (lines[i].includes("|slaylvl = ")) {
       attributes.slaylvl = parseInt(lines[i].split("|slaylvl = ").pop(), 10);
     } else if (lines[i].includes("|poisonous = ")) {
@@ -115,6 +114,7 @@ function parseMonsterDrops(data) {
   let mainDrops = [];
   let petDrops = [];
   let extraDrops = [];
+  let rareDropTable = false;
   let fullDropString = data.slice(data.indexOf("==Drops==\\n")+12, data.indexOf("\n|}\n\n<references />", data.indexOf("\\n|}\\n\\n<references />")+1));
   let lines = fullDropString.split("\\n");
   let len = lines.length;
@@ -126,13 +126,13 @@ function parseMonsterDrops(data) {
       let j;
       for (j=0; j<lineItemArray.length; j++) {
         if (lineItemArray[j].includes("Name")) {
-          newItemObject.name = lineItemArray[1].replace("Name=", "");
+          newItemObject.name = lineItemArray[1].split("=").pop().trim();
         } else if (lineItemArray[j].includes("Quantity")) {
-          newItemObject.quantity = lineItemArray[j].replace("Quantity=", "");
+          newItemObject.quantity = lineItemArray[j].split("=").pop().trim();
         }
       };
       if (newItemObject["quantity"].includes("noted")) {
-        newItemObject.quantity = newItemObject["quantity"].replace(" (noted)", "");
+        newItemObject.quantity = newItemObject["quantity"].replace("(noted)", "").trim();
         newItemObject.noted = true;
       } else {
         newItemObject.noted = false;
@@ -144,8 +144,7 @@ function parseMonsterDrops(data) {
       } else if (extraDropsList.includes(newItemObject.name)) {
         extraDrops.push(newItemObject);
       } else if (newItemObject["name"].includes("Rare drop table")) {
-        //monsterStats.raredroptable = true;
-        console.log("monsterStats.raredroptable = true");
+        rareDropTable = true;
       } else {
         mainDrops.push(newItemObject);
       }
@@ -156,5 +155,45 @@ function parseMonsterDrops(data) {
   otherDrops.tertiary = JSON.parse(JSON.stringify(extraDrops.slice()));
   let drops = {"guaranteed": guaranteedDrops.slice(), "main": mainDrops.slice(), "other": Object.assign(otherDrops)};
 
-  return drops;
-}
+  return {"drops": drops, "raredroptable": rareDropTable};
+};
+
+function countMonsterVariants(string) {
+  let i;
+  let n;
+  let len = 5;
+  for (i=0; i<len; i++) {
+    if (string.includes("|text"+(i+1))) {
+      n++;
+    }
+  }
+};
+
+/** Function that count occurrences of a substring in a string;
+ * @param {String} string               The string
+ * @param {String} subString            The sub string to search for
+ * @param {Boolean} [allowOverlapping]  Optional. (Default:false)
+ *
+ * @author Vitim.us https://gist.github.com/victornpb/7736865
+ * @see Unit Test https://jsfiddle.net/Victornpb/5axuh96u/
+ * @see http://stackoverflow.com/questions/4009756/how-to-count-string-occurrence-in-string/7924240#7924240
+ */
+function occurrences(string, subString, allowOverlapping) {
+
+    string += "";
+    subString += "";
+    if (subString.length <= 0) return (string.length + 1);
+
+    var n = 0,
+        pos = 0,
+        step = allowOverlapping ? 1 : subString.length;
+
+    while (true) {
+        pos = string.indexOf(subString, pos);
+        if (pos >= 0) {
+            ++n;
+            pos += step;
+        } else break;
+    }
+    return n;
+};
