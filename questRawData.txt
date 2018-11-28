@@ -1,0 +1,150 @@
+Black Knights' Fortress	No	Novice	Short	3
+Cook's Assistant	No	Novice	Short	1
+The Corsair Curse	No	Novice	Short	2
+Demon Slayer	No	Novice	Medium	3
+Doric's Quest	No	Novice	Short	1
+Dragon Slayer	No	Experienced	Long	2	Guild
+Ernest the Chicken	No	Novice	Short	4
+Goblin Diplomacy	No	Novice	Short	5
+Imp Catcher	No	Novice	Short	1
+The Knight's Sword	No	Intermediate	Medium	1
+Misthalin Mystery	No	Novice	Medium	1
+Pirate's Treasure	No	Novice	Short	2	Pirate
+Prince Ali Rescue	No	Novice	Short	3
+The Restless Ghost	No	Novice	Short	1
+Romeo & Juliet	No	Novice	Short	5
+Rune Mysteries	No	Novice	Short	1
+Sheep Shearer	No	Novice	Short	1
+Shield of Arrav	No	Novice	Medium	1	Mahjarrat
+Vampire Slayer	No	Novice	Short	3
+Witch's Potion	No	Novice	Short	1
+Animal Magnetism	Intermediate	Medium, long without necessary items	1	None
+Another Slice of H.A.M.	Intermediate	Medium	1	Dorgeshuun (#4)
+Between a Rock...	Experienced	Long (Medium, if all items are acquired)	2	Rise of the Red Axe
+Big Chompy Bird Hunting	Intermediate	Short	2	Ogre
+Biohazard	Novice	Medium	3	Elf
+Bone Voyage	Intermediate	Short-Medium	1	N/A
+Cabin Fever	Experienced	Medium	2	Pirate
+Client of Kourend	Novice	Medium	1	The Return of Xeric
+Clock Tower	Novice	Short	1	None
+Cold War	Intermediate	Medium-Long	1	Penguin
+Contact!	Master	Medium	1	Desert
+Creature of Fenkenstrain	Intermediate	Medium	2	None
+Darkness of Hallowvale	Intermediate	Very Long	2	Myreque
+Death Plateau	Novice	Medium	1	Troll
+Death to the Dorgeshuun	Intermediate	Medium	1	Dorgeshuun
+The Depths of Despair	Novice	Short	1	The Return of Xeric
+Desert Treasure	Master	Very Long	3	The Return of Zaros and Mahjarrat
+Devious Minds	Experienced	Short	1	The Return of Zaros
+The Dig Site	Intermediate	Long	2	The Return of Zaros
+Dragon Slayer II	Grandmaster	Very Long (2 Hours)	5	Dragonkin
+Dream Mentor	Master	Short to Medium	2	Fremennik
+Druidic Ritual	Novice	Short	4	None
+Dwarf Cannon	Novice	Short	1	None
+Eadgar's Ruse	Experienced	Medium-Long	1	Troll
+Eagles' Peak	Novice	Medium	2	None
+Elemental Workshop I	Novice	Short	1	Elemental Workshop
+Elemental Workshop II	Intermediate	Medium	1	Elemental Workshop (#2)
+Enakhra's Lament	Experienced	Medium	2	Mahjarrat
+Enlightened Journey	Intermediate	Short (Long if growing the tree yourself)	1	None
+The Eyes of Glouphrie	Intermediate	Medium/Long	2	Gnome
+Fairytale I - Growing Pains	Experienced	Long	2	Fairy Tale (#2)
+Fairytale II - Cure a Queen	Experienced	Short-Medium	2	Fairy Tale (#2)
+Family Crest	Experienced	Medium	1	None
+The Feud	Intermediate	Medium	1	Desert
+Fight Arena	Experienced	Short	2	Mahjarrat
+Fishing Contest	Novice	Short	1	Dwarf
+Forgettable Tale...	Intermediate	Long (40+ minutes of waiting)	2	Rise of the Red Axe
+The Fremennik Isles	Experienced	Long	1	Fremennik
+The Fremennik Trials	Intermediate	Long	3	Fremennik
+Garden of Tranquillity	Intermediate	Very long (must wait for several crops to grow)	2	None
+Gertrude's Cat	Novice	Short	1	None
+Ghosts Ahoy	Intermediate	Medium-Long (without dyes/energy potions)	2	None
+The Giant Dwarf	Intermediate	Medium to Long	2	Rise of the Red Axe
+The Golem	Intermediate	Medium	1	None
+The Grand Tree	Experienced	Long	5	Gnome
+The Great Brain Robbery	Experienced	Medium	2	Pirate
+Grim Tales	Master	Medium	1	None
+The Hand in the Sand	Intermediate	Medium	1	None
+Haunted Mine	Experienced	Medium (if you're good at puzzling), Long (if you're not)	2	None
+Hazeel Cult	Novice	Short	1	Mahjarrat
+Heroes' Quest	Experienced	Medium-Long (can be completed in less than 25 minutes if you already have a partner and all the required items)	1	Guild
+Holy Grail	Intermediate	Medium (Long without teleports)	2	Camelot (#2)
+Horror from the Deep	Experienced	Short	2	Fremennik
+Icthlarin's Little Helper	Intermediate	Medium / Long	2	Desert
+In Aid of the Myreque	Intermediate	Long	2	Myreque
+In Search of the Myreque	Intermediate	Short	2	Myreque
+Jungle Potion	Novice	Short – Medium	1	Karamja
+King's Ransom	Experienced	Medium (20-30 mins)	1	Camelot (#3)
+Legends' Quest	Master	Very Long; May take several hours to complete.	4	Karamja, Guild
+Lost City	Experienced	Short	3	Fairy Tale
+The Lost Tribe	Intermediate	Medium	1	Dorgeshuun
+Lunar Diplomacy	Experienced	Long	2	Fremennik
+Making Friends with My Arm	Master	Medium	2	Troll
+Making History	Intermediate	Long (Short with teleports)	3	Enchanted Key
+Merlin's Crystal	Intermediate	Medium (Short with teleports)	6	Camelot
+Monk's Friend	Novice	Very Short (5 minutes)	1	None
+Monkey Madness I	Master	Long	3	Gnome, Monkey
+Monkey Madness II	Grandmaster	Very Long	4	Gnome, Monkey
+Mountain Daughter	Intermediate	Medium	2	Fremennik
+Mourning's Ends Part I	Master	Long to Very Long	2	Elf
+Mourning's Ends Part II	Master		2	Elf
+Murder Mystery	Novice	Short	3	Camelot
+My Arm's Big Adventure	Intermediate	Medium	1	Troll
+Nature Spirit	Novice	Medium	2	Myreque
+Observatory Quest	Novice	Short – Medium	2	None
+Olaf's Quest	Intermediate	Short-Long (depending on Agility level and luck)	1	Fremennik
+One Small Favour	Experienced	Very Long (1 Hour)	2	Karamja
+Plague City	Novice	Short	1	Elf
+Priest in Peril	Novice	Medium	1	Myreque
+The Queen of Thieves	Novice	Short	1	The Return of Xeric
+Rag and Bone Man	Novice	Medium	1	None
+Rag and Bone Man II	Intermediate	Long	1	None
+Ratcatchers	Intermediate	Long - Very long (Preparing items and teleports ahead of time will save a significant amount of time. A cat saves you a lot of time too!)	2	None
+Recipe for Disaster	Special	Very long	10	None
+Recipe for Disaster/Another Cook's Quest	Special	Short	1	None
+Recipe for Disaster/Defeating the Culinaromancer	Special	Short	1
+Recipe for Disaster/Freeing Evil Dave	Special	Medium	1	None
+Recipe for Disaster/Freeing King Awowogei	Special	Medium - Long	1	None
+Recipe for Disaster/Freeing Pirate Pete	Special	Medium	1	None
+Recipe for Disaster/Freeing Sir Amik Varze	Special	Medium	1	None
+Recipe for Disaster/Freeing Skrach Uglogwee	Special	Medium	1	None
+Recipe for Disaster/Freeing the Goblin generals	Special	Short	1	None
+Recipe for Disaster/Freeing the Lumbridge Guide	Special	Short	1	None
+Recipe for Disaster/Freeing the Mountain Dwarf	Special	Short	1	None
+Recruitment Drive	Novice	Short	1	Temple Knight
+Regicide	Master	Long	3	Elf
+Roving Elves	Master	Short-Medium	1	Elf, Gnome
+Royal Trouble	Experienced	Medium	1	Fremennik
+Rum Deal	Experienced	Medium, 20-30 minutes	2	Pirate
+Scorpion Catcher	Intermediate	Medium (Short with teleports)	1	None
+Sea Slug	Intermediate	Short	1	Sea Slug
+Shades of Mort'ton	Intermediate	Short	3	Mort'ton
+Shadow of the Storm	Intermediate	Medium	1	None
+Sheep Herder	Novice	Short	4	Plague/Elf
+Shilo Village	Experienced	Long	2	Karamja
+The Slug Menace	Intermediate	Medium - Long	1	Sea Slug
+Temple Knight
+A Soul's Bane	Novice	Medium	1	None
+Spirits of the Elid	Intermediate	Short/medium	2	Desert
+Swan Song	Master	Medium	2	Wise Old Man
+Tai Bwo Wannai Trio	Intermediate	Long	2	Karamja
+A Tail of Two Cats	Intermediate	Long (25-35 minute wait for farm patch to grow)	2	Dragonkin
+Tale of the Righteous	Novice	Medium	1	The Return of Xeric
+A Taste of Hope	Experienced	Long	1	Myreque
+Tears of Guthix (quest)	Intermediate	Very Short (2 minutes)	1	None
+Temple of Ikov	Experienced	Medium	1	Mahjarrat
+Throne of Miscellania	Experienced	Medium	1	Fremennik
+The Tourist Trap	Intermediate	Medium	2	Desert
+Tower of Life	Novice	Medium	2	None
+Tree Gnome Village	Intermediate	Short (with all items at the start, 10-15 minutes total depending on run energy)	2	Gnome
+Tribal Totem	Intermediate	Short	1	None
+Troll Romance	Experienced	Medium	2	Troll
+Troll Stronghold	Experienced	Short-Medium	1	Troll
+Underground Pass	Experienced	Long	5	Elf
+Wanted!	Intermediate	Long	1	Temple Knight
+Watchtower	Intermediate	Long	4	Ogre
+Waterfall Quest	Intermediate	Medium	1	Elf, Gnome
+What Lies Below	Intermediate	Medium (Short with teleports)	1	Runecrafting
+Witch's House	Intermediate	Short	4	None
+Zogre Flesh Eaters	Intermediate	Medium	1	Ogre
