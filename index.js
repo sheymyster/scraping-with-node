@@ -1,7 +1,10 @@
 const request = require('request');
+const fs = require('fs');
+
 const dataExample = require('./data');
 const pets = require('./pets');
 const tertiaryDrops = require('./tertiaryDrops');
+const listOfMonsters = require('./monsterList');
 
 let chosenMonster = 'Vorkath';
 let url = 'https://oldschool.runescape.wiki/w/'+chosenMonster+'?action=raw'
@@ -12,7 +15,8 @@ let extraDropsList = tertiaryDrops.tertiaryDrops;
 request(url, function(error, response, body) {
   var data = JSON.stringify(body);
   var monsterDataMasterList = handleMonsterData(data);
-  console.log(monsterDataMasterList);
+  let dataForFile = JSON.stringify(monsterDataMasterList, null, 2);
+  fs.writeFileSync('allMonsterData.json', dataForFile);
   }
 );
 // var monsterDataMasterList = handleMonsterData(exampledata);
@@ -28,7 +32,7 @@ function handleMonsterData(data) {
   let i;
   let len = monsterVarianceCount;
   for (i=0; i<len; i++) {
-    let statString = data.slice(data.indexOf("|item"+(i+1)+"="), data.indexOf("|text"+(i+1)+"="));
+    let statString = data.slice(data.indexOf("|item"+(i+1)+"="), data.indexOf("text"+(i+1)+"="));
     let monsterStats = parseMonsterStats(statString);
     monsterStats.raredroptable = parseMonsterDropsResult.raredroptable;
     monsterStatsAllLevels.push(monsterStats);
@@ -160,13 +164,14 @@ function parseMonsterDrops(data) {
 
 function countMonsterVariants(string) {
   let i;
-  let n;
+  let n = 0;
   let len = 5;
   for (i=0; i<len; i++) {
-    if (string.includes("|text"+(i+1))) {
+    if (string.includes("text"+(i+1))) {
       n++;
     }
   }
+  return n;
 };
 
 /** Function that count occurrences of a substring in a string;
