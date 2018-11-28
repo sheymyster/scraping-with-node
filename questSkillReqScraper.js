@@ -20,9 +20,12 @@ request(url, function(error, response, body) {
       let m = skillReqLines.length;
       for (j=0; j<m; j++) {
         let questSkillObject = {};
-        questSkillObject.statname = skillReqLines[j].split("|")[1];
-        questSkillObject.statvalue = parseInt(skillReqLines[j].split("|")[2].replace("}}", ""), 10);
-        questSkillArray.push(questSkillObject);
+        if (skillReqLines[j].length>5) {
+          questSkillObject.statname = skillReqLines[j].split("|")[1];
+          let parsedStatValue = skillReqLines[j].split("|")[2];
+          questSkillObject.statvalue = parseInt(parsedStatValue.replace("}}", ""), 10);
+          questSkillArray.push(questSkillObject);
+        }
       }
       questSkillReqObject.skillreqs = questSkillArray;
       questSkillReqObjectArray.push(questSkillReqObject);
