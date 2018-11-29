@@ -317,24 +317,12 @@
     "name": "Goblin Diplomacy",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
-    "rewards": {
-      "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
-    }
-  },
-  {
-    "name": "Hazeel Cult",
-    "skillreqs": [],
-    "questreqs": [],
     "itemreqs": [
       {"name": "Goblin mail", "quantity": 3},
-      {"name": "Blue dye", "quantity": 2},
-      {"name": "Orange dye", "quantity": 1},
-      {"name": "Coins", "quantity": 15}
-    ],
+    {"name": "Blue dye", "quantity": 2},
+    {"name": "Orange dye", "quantity": 1},
+    {"name": "Coins", "quantity": 15}
+  ],
     "rewards": {
       "lamps": [],
       "experience": [
@@ -347,25 +335,54 @@
     }
   },
   {
-    "name": "Imp Catcher",
+    "name": "Hazeel Cult",
     "skillreqs": [],
     "questreqs": [],
     "itemreqs": [],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
+      "experience": [
+        {"statname": "Thieving", "statvalue": 1500}
+      ],
+      "items": [
+        {"name": "Coins", "quantity": 2000}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Imp Catcher",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Black bead", "quantity": 1},
+      {"name": "Yellow bead", "quantity": 1},
+      {"name": "Red bead", "quantity": 1},
+      {"name": "White bead", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Magic", "statvalue": 875}
+      ],
+      "items": [
+        {"name": "Amulet of accuracy", "quantity": 1}
+      ],
       "access": []
     }
   },
   {
     "name": "Jungle Potion",
     "skillreqs": [],
-    "questreqs": [],
+    "questreqs": [
+      "Druidic Ritual"
+    ],
     "itemreqs": [],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Herblore", "statvalue": 775}
+      ],
       "items": [],
       "access": []
     }
@@ -374,11 +391,18 @@
     "name": "Monk's Friend",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Jug of water", "quantity": 1},
+      {"name": "Logs", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
+      "experience": [
+        {"statname": "Woodcutting", "statvalue": 2000}
+      ],
+      "items": [
+        {"name": "Law rune", "quantity": 8}
+      ],
       "access": []
     }
   },
@@ -386,22 +410,38 @@
     "name": "Murder Mystery",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Pot", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
+      "experience": [
+        {"statname": "Crafting", "quantity": 1406}
+      ],
+      "items": [
+        {"name": "Coins", "quantity": 2000}
+      ],
       "access": []
     }
   },
   {
     "name": "Nature Spirit",
     "skillreqs": [],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "Priest in peril",
+      "The restless ghost"
+    ],
+    "itemreqs": [
+      {"name": "Silver sickle", "quantity": 1},
+      {"name": "Ghostspeak amulet", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Crafting", "statvalue": 3000},
+        {"statname": "Hitpoints", "statvalue": 2000},
+        {"statname": "Defence", "statvalue": 2000}
+      ],
       "items": [],
       "access": []
     }
@@ -415,70 +455,140 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Plank", "quantity": 3}
+      {"name": "Bronze bar", "quantity": 1},
+      {"name": "Molten glass", "quantity": 1},
+      {"name": "Lens mould", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Crafting", "statvalue": 2250}
+      ],
       "items": [],
-      "access": []
+      "access": [
+        "Observatory grapple shortcut"
+      ]
     }
   },
   {
     "name": "Pirate's Treasure",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Karamjan rum", "quantity": 1},
+      {"name": "White apron", "quantity": 1},
+      {"name": "Coins", "quantity": 60},
+      {"name": "Banana", "quantity": 10},
+      {"name": "Spade", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
       "experience": [],
-      "items": [],
-      "access": []
+      "items": [
+        {"name": "Coins", "quantity": 450},
+        {"name": "Emerald", "quantity": 1},
+        {"name": "Gold ring", "quantity": 1}
+      ],
+      "access": [
+        "Pay-fare option Karamja"
+      ]
     }
   },
   {
     "name": "Plague City",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Dwellberries", "quantity": 1},
+      {"name": "Rope", "quantity": 1},
+      {"name": "Spade", "quantity": 1},
+      {"name": "Bucket of water", "quantity": 4},
+      {"name": "Bucket of milk", "quantity": 1},
+      {"name": "Chocolate dust", "quantity": 1},
+      {"name": "Snape grass", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Mining", "statvalue": 2425}
+      ],
       "items": [],
-      "access": []
+      "access": [
+        "Ardougne teleport"
+      ]
     }
   },
   {
     "name": "Priest in Peril",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Rune essence", "quantity": 50},
+      {"name": "Bucket", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Prayer", "statvalue": 1406}
+      ],
+      "items": [
+        {"name": "Wolfbane dagger", "quantity": 1}
+      ],
+      "access": [
+        "Canifis access"
+      ]
     }
   },
   {
     "name": "Prince Ali Rescue",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Soft clay", "quantity": 1},
+      {"name": "Ball of wool", "quantity": 3},
+      {"name": "Yellow dye", "quantity": 1},
+      {"name": "Redberries", "quantity": 1},
+      {"name": "Ashes", "quantity": 1},
+      {"name": "Bucket of water", "quantity": 1},
+      {"name": "Pot of flour", "quantity": 1},
+      {"name": "Bronze bar", "quantity": 1},
+      {"name": "Pink skirt", "quantity": 1},
+      {"name": "Beer", "quantity": 3},
+      {"name": "Rope", "quantity": 1},
+      {"name": "Coins", "quantity": 100}
+    ],
     "rewards": {
       "lamps": [],
       "experience": [],
-      "items": [],
-      "access": []
+      "items": [
+        {"name": "Coins", "quantity": 700}
+      ],
+      "access": [
+        "Free Al Kharid Gate",
+        "Unlock Sorceress's Garden"
+      ]
     }
   },
   {
     "name": "Rag and Bone Man",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Coins", "quantity": 38},
+      {"name": "Pot", "quantity": 8},
+      {"name": "Logs", "quantity": 8},
+      {"name": "Tinderbox", "quantity": 1},
+      {"name": "Lantern", "quantity": 1},
+      {"name": "Rope", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Cooking", "statvalue": 500},
+        {"statname": "Prayer", "statvalue": 500}
+      ],
       "items": [],
       "access": []
     }
@@ -491,13 +601,27 @@
         "statvalue": 12
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "Black Knights' Fortress",
+      "Druidic Ritual"
+    ],
+    "itemreqs": [
+      {"name": "Coins", "quantity": 3000}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Prayer", "statvalue": 1000},
+        {"statname": "Herblore", "statvalue": 1000},
+        {"statname": "Agility", "statvalue": 1000}
+      ],
+      "items": [
+        {"name": "Initiate sallet", "quantity": 1}
+      ],
+      "access": [
+        "Unlock initiate armor",
+        "Unlock falador respawn"
+      ]
     }
   },
   {
@@ -507,8 +631,12 @@
     "itemreqs": [],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
+      "experience": [
+        {"statname": "Prayer", "statvalue": 1125}
+      ],
+      "items": [
+        {"name": "Ghostspeak amulet", "quantity": 1}
+      ],
       "access": []
     }
   },
@@ -516,7 +644,9 @@
     "name": "Romeo & Juliet",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Cadava berries", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
       "experience": [],
@@ -532,19 +662,28 @@
     "rewards": {
       "lamps": [],
       "experience": [],
-      "items": [],
-      "access": []
+      "items": [
+        {"name": "Air talisman", "quantity": 1}
+      ],
+      "access": [
+        "Unlock runecrafting skill",
+        "Unlock essence mining"
+      ]
     }
   },
   {
     "name": "Sheep Herder",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Coins", "quantity": 100}
+    ],
     "rewards": {
       "lamps": [],
       "experience": [],
-      "items": [],
+      "items": [
+        {"name": "Coins", "quantity": 3100}
+      ],
       "access": []
     }
   },
@@ -552,11 +691,17 @@
     "name": "Sheep Shearer",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Ball of wool", "quantity": 20}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
+      "experience": [
+        {"statname": "Crafting", "statvalue": 150}
+      ],
+      "items": [
+        {"name": "Coins", "quantity": 60}
+      ],
       "access": []
     }
   },
@@ -568,7 +713,9 @@
     "rewards": {
       "lamps": [],
       "experience": [],
-      "items": [],
+      "items": [
+        {"name": "Coins", "quantity": 600}
+      ],
       "access": []
     }
   },
@@ -576,12 +723,21 @@
     "name": "A Soul's Bane",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Rope", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Defence", "statvalue": 500},
+        {"statname": "Hitpoints", "statvalue": 500}
+      ],
+      "items": [
+        {"name": "Coins", "quantity": 500}
+      ],
+      "access": [
+        "Access Dungeon of Tolna"
+      ]
     }
   },
   {
@@ -593,22 +749,44 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Saw", "quantity": 1},
+      {"name": "Beer", "quantity": 1},
+      {"name": "Leather gloves", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Construction", "statvalue": 1000},
+        {"statname": "Crafting", "statvalue": 500},
+        {"statname": "Thieving", "statvalue": 500}
+      ],
+      "items": [
+        {"name": "Hard hat", "quantity": 1},
+        {"name": "Builder's shirt", "quantity": 1},
+        {"name": "Builder's trousers", "quantity": 1},
+        {"name": "Builder's boots", "quantity": 1}
+      ],
+      "access": [
+        "Unlock creature creation"
+      ]
     }
   },
   {
     "name": "Vampire Slayer",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Beer", "quantity": 1},
+      {"name": "Garlic", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Attack", "statvalue": 4825}
+      ],
       "items": [],
       "access": []
     }
@@ -617,10 +795,17 @@
     "name": "Witch's Potion",
     "skillreqs": [],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Burnt meat", "quantity": 1},
+      {"name": "Eye of newt", "quantity": 1},
+      {"name": "Onion", "quantity": 1},
+      {"name": "Rat's tail", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Magic", "statvalue": 325}
+      ],
       "items": [],
       "access": []
     }
