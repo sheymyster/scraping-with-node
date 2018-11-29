@@ -23,7 +23,7 @@ request(url, function(error, response, body) {
         if (skillReqLines[j].length>5) {
           questSkillObject.statname = skillReqLines[j].split("|")[1];
           let parsedStatValue = skillReqLines[j].split("|")[2];
-          questSkillObject.statvalue = parseInt(parsedStatValue.replace("}}", ""), 10);
+          questSkillObject.statvalue = parseInt(parsedStatValue, 10);
           questSkillArray.push(questSkillObject);
         }
       }

@@ -40,7 +40,6 @@ async.map(monsterUrls, httpGet, function (err, res){
 
 function handleMonsterNames(string) {
     let rows = string.split('\\n');
-
     let monsterNames = [];
     let i;
     let len = rows.length;

@@ -1,0 +1,3365 @@
+[
+  {
+    "name": "Biohazard",
+    "skillreqs": [],
+    "questreqs": ["Plague City"],
+    "itemreqs": [
+      {"name": "Priest gown top", "quantity": 1},
+      {"name": "Priest gown bottom", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Thieving", "statvalue": 1250}
+      ],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Black Knights' Fortress",
+    "skillreqs": [
+      {
+        "statname": "Quest",
+        "statvalue": 12
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Cabbage", "quantity": 1},
+      {"name": "Iron chainbody", "quantity": 1},
+      {"name": "Bronze med helm", "quantity":1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [
+        {"name": "Coins", "quantity": 2500}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Clock Tower",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Rat poison", "quantity": 1},
+      {"name": "Bucket of water", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [
+        {"name": "Coins", "quantity": 500}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Cook's Assistant",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Pot of flour", "quantity": 1},
+      {"name": "Bucket of milk", "quantity": 1},
+      {"name": "Egg", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Cooking", "statvalue": 300}
+      ],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Death Plateau",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Coins", "quantity": 60},
+      {"name": "Bread", "quantity": 10},
+      {"name": "Trout", "quantity": 10},
+      {"name": "Iron bar", "quantity": 1},
+      {"name": "Asgarnain ale", "quantity": 1},
+      {"name": "Premade blurb' sp.", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Attack", "statvalue": 3000}
+      ],
+      "items": [
+        {"name": "Steel claws", "quantity": 1}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Demon Slayer",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Bucket of water", "quantity": 1},
+      {"name": "Bones", "quantity": 25},
+      {"name": "Coins", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [
+        {"name": "Silverlight", "quantity": 1}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Doric's Quest",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Clay", "quantity": 6},
+      {"name": "Copper ore", "quantity": 4},
+      {"name": "Iron ore", "quantity": 2}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Mining", "statvalue": 1300},
+      ],
+      "items": [
+        {"name": "Coins", "quantity": 180}
+      ],
+      "access": [
+        "Doric's Anvil"
+      ]
+    }
+  },
+  {
+    "name": "Druidic Ritual",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Raw bear meat", "quantity": 1},
+      {"name": "Raw rat meat", "quantity": 1},
+      {"name": "Raw beef", "quantity": 1},
+      {"name": "Raw chicken", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Herblore", "statvalue": 250}
+      ],
+      "items": [],
+      "access": [
+        "Herblore skill"
+      ]
+    }
+  },
+  {
+    "name": "Dwarf Cannon",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Hammer", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Crafting", "statvalue": 750}
+      ],
+      "items": [],
+      "access": [
+        "Use dwarf cannon"
+      ]
+    }
+  },
+  {
+    "name": "Eagles' Peak",
+    "skillreqs": [
+      {
+        "statname": "Hunter",
+        "statvalue": 27,
+        "boostable": true
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Eagle feather", "quantity": 10},
+      {"name": "Yellow dye", "quantity": 1},
+      {"name": "Swamp tar", "quantity": 1},
+      {"name": "Coins", "quantity": 50}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Hunter", "statvalue": 2500}
+      ],
+      "items": [],
+      "access": [
+        "Catch ferrets",
+        "Use Eagles"
+      ]
+    }
+  },
+  {
+    "name": "Elemental Workshop I",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 20
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Knife", "quantity": 1},
+      {"name": "Bronze pickaxe", "quantity": 1},
+      {"name": "Needle", "quantity": 1},
+      {"name": "Thread", "quantity": 1},
+      {"name": "Leather", "quantity": 1},
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Coal", "quantity": 4}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Crafting", "statvalue": 5000},
+        {"statname": "Smithing", "statvalue": 5000}
+      ],
+      "items": [],
+      "access": [
+        "Make elemental shields"
+      ]
+    }
+  },
+  {
+    "name": "Ernest the Chicken",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Spade", "quantity": 1},
+      {"name": "Fish food", "quantity": 1},
+      {"name": "Poison", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [
+        {"name": "Coins", "quantity": 300}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Fishing Contest",
+    "skillreqs": [
+      {
+        "statname": "Fishing",
+        "statvalue": 10,
+        "boostable": false
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Coins", "quantity": 10},
+      {"name": "Fishing pass", "quantity": 1},
+      {"name": "Garlic", "quantity": 1},
+      {"name": "Fishing rod", "quantity": 1},
+      {"name": "Red vine worms", "quantity": 3},
+      {"name": "Spade", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Fishing", "statvalue": 2437}
+      ],
+      "items": [],
+      "access": [
+        "Tunnel shortcut"
+      ]
+    }
+  },
+  {
+    "name": "Gertrude's Cat",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Bucket of milk", "quantity": 1},
+      {"name": "Coins", "quantity": 100},
+      {"name": "Seasoned sardine", "quantity": 1}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Cooking", "statvalue": 1525}
+      ],
+      "items": [
+        {"name": "Kitten", "quantity": 1},
+        {"name": "Chocolate cake", "quantity": 1},
+        {"name": "Stew", "quantity": 1}
+      ],
+      "access": [
+        "Raise cats"
+      ]
+    }
+  },
+  {
+    "name": "Goblin Diplomacy",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Hazeel Cult",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [
+      {"name": "Goblin mail", "quantity": 3},
+      {"name": "Blue dye", "quantity": 2},
+      {"name": "Orange dye", "quantity": 1},
+      {"name": "Coins", "quantity": 15}
+    ],
+    "rewards": {
+      "lamps": [],
+      "experience": [
+        {"statname": "Crafting", "statvalue": 200}
+      ],
+      "items": [
+        {"name": "Gold bar", "quantity": 1}
+      ],
+      "access": []
+    }
+  },
+  {
+    "name": "Imp Catcher",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Jungle Potion",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Monk's Friend",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Murder Mystery",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Nature Spirit",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Observatory Quest",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 10
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Pirate's Treasure",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Plague City",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Priest in Peril",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Prince Ali Rescue",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Rag and Bone Man",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Recruitment Drive",
+    "skillreqs": [
+      {
+        "statname": "Quest",
+        "statvalue": 12
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Restless Ghost",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Romeo & Juliet",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Rune Mysteries",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Sheep Herder",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Sheep Shearer",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Shield of Arrav",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "A Soul's Bane",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Tower of Life",
+    "skillreqs": [
+      {
+        "statname": "Construction",
+        "statvalue": 10
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Vampire Slayer",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Witch's Potion",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Animal Magnetism",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 19
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 30
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 18
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 35
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Another Slice of H.A.M.",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 23
+      },
+      {
+        "statname": "Attack",
+        "statvalue": 15
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 12
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 16
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 10
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 17
+      },
+      {
+        "statname": "Prayer",
+        "statvalue": 25
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Big Chompy Bird Hunting",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Cold War",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 30
+      },
+      {
+        "statname": "Construction",
+        "statvalue": 34
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 30
+      },
+      {
+        "statname": "Hunter",
+        "statvalue": 10
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 15
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Creature of Fenkenstrain",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Darkness of Hallowvale",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 26
+      },
+      {
+        "statname": "Construction",
+        "statvalue": 5
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 32
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 33
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 22
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Death to the Dorgeshuun",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 23
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 17
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 23
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Dig Site",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 10
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 10
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Elemental Workshop II",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 20
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 20
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Enlightened Journey",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 36
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 30
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 20
+      },
+      {
+        "statname": "Quest",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Eyes of Glouphrie",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      },
+      {
+        "statname": "Construction",
+        "statvalue": 5
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 46
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Feud",
+    "skillreqs": [
+      {
+        "statname": "Thieving",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Forgettable Tale...",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 22
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 12
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 17
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 16
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 10
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 14
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Fremennik Trials",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Garden of Tranquillity",
+    "skillreqs": [
+      {
+        "statname": "Farming",
+        "statvalue": 25
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Ghosts Ahoy",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Giant Dwarf",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 12
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 16
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 33
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 14
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Golem",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Hand in the Sand",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 49
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 17
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Holy Grail",
+    "skillreqs": [
+      {
+        "statname": "Attack",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Icthlarin's Little Helper",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "In Aid of the Myreque",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 25
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 7
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 15
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "In Search of the Myreque",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Knight's Sword",
+    "skillreqs": [
+      {
+        "statname": "Mining",
+        "statvalue": 10
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Lost Tribe",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 13
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 17
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 13
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Making History",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Merlin's Crystal",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Mountain Daughter",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "My Arm's Big Adventure",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 29
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 31
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 30
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 10
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Olaf's Quest",
+    "skillreqs": [
+      {
+        "statname": "Firemaking",
+        "statvalue": 40
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 50
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Ratcatchers",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 12
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 16
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 33
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 14
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Scorpion Catcher",
+    "skillreqs": [
+      {
+        "statname": "Prayer",
+        "statvalue": 31
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Sea Slug",
+    "skillreqs": [
+      {
+        "statname": "Firemaking",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Shades of Mort'ton",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 5
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 15
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Shadow of the Storm",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 30
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Slug Menace",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 13
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 30
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 17
+      },
+      {
+        "statname": "Runecraft",
+        "statvalue": 30
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Spirits of the Elid",
+    "skillreqs": [
+      {
+        "statname": "Magic",
+        "statvalue": 33
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 37
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 37
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 37
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Tai Bwo Wannai Trio",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 5
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "A Tail of Two Cats",
+    "skillreqs": []
+  },
+  {
+    "name": "Tears of Guthix (quest)|Tears of Guthix",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 49
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 20
+      },
+      {
+        "statname": "Quest",
+        "statvalue": 43
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Tourist Trap",
+    "skillreqs": [
+      {
+        "statname": "Fletching",
+        "statvalue": 10
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Tree Gnome Village",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    },
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Tribal Totem",
+    "skillreqs": [
+      {
+        "statname": "Thieving",
+        "statvalue": 21
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Wanted!",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 13
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 17
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 13
+      },
+      {
+        "statname": "Quest",
+        "statvalue": 32
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Watchtower",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 14
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 15
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 40
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 15
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Waterfall Quest",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "What Lies Below",
+    "skillreqs": [
+      {
+        "statname": "Runecraft",
+        "statvalue": 35
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Witch's House",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Zogre Flesh Eaters",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 8
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 30
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 4
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Between a Rock...",
+    "skillreqs": [
+      {
+        "statname": "Defence",
+        "statvalue": 30
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 10
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 40
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 50
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Cabin Fever",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 42
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 45
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 40
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 50
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 8
+      },
+      {
+        "statname": "Prayer",
+        "statvalue": 47
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 40
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 42
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Devious Minds",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 50
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 17
+      },
+      {
+        "statname": "Runecraft",
+        "statvalue": 50
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 65
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Dragon Slayer",
+    "skillreqs": [
+      {
+        "statname": "Quest",
+        "statvalue": 32
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Eadgar's Ruse",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 31
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Enakhra's Lament",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 50
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 45
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 39
+      },
+      {
+        "statname": "Prayer",
+        "statvalue": 43
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Fairytale I - Growing Pains",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 31
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 36
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Fairytale II - Cure a Queen",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 31
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 49
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 57
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 40
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 36
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Family Crest",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 40
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 59
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 40
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 40
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Fight Arena",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Fremennik Isles",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 40
+      },
+      {
+        "statname": "Construction",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Grand Tree",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Great Brain Robbery",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 42
+      },
+      {
+        "statname": "Construction",
+        "statvalue": 30
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 31
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 45
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 40
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 8
+      },
+      {
+        "statname": "Prayer",
+        "statvalue": 50
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 40
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 50
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Haunted Mine",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 35
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Heroes' Quest",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 53
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 31
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 53
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 25
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 50
+      },
+      {
+        "statname": "Quest",
+        "statvalue": 55
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Horror from the Deep",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 35
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "King's Ransom",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 36
+      },
+      {
+        "statname": "Attack",
+        "statvalue": 20
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 25
+      },
+      {
+        "statname": "Defence",
+        "statvalue": 65
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 18
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Lost City",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 31
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 36
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Lunar Diplomacy",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 32
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 61
+      },
+      {
+        "statname": "Defence",
+        "statvalue": 40
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 49
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 5
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 60
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 55
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "One Small Favour",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 36
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 25
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 18
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 30
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Royal Trouble",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 40
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 53
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 31
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 10
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 53
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 50
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 40
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 45
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Rum Deal",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 42
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 40
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 50
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Prayer",
+        "statvalue": 47
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 30
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 42
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 4
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Shilo Village",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 32
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Temple of Ikov",
+    "skillreqs": [
+      {
+        "statname": "Ranged",
+        "statvalue": 40
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 42
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Throne of Miscellania",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 53
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 31
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 10
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 53
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 35
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 45
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Troll Romance",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 28
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Troll Stronghold",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Underground Pass",
+    "skillreqs": [
+      {
+        "statname": "Ranged",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Contact!",
+    "skillreqs": []
+  },
+  {
+    "name": "Desert Treasure",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 50
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 10
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 10
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 50
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 10
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 53
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Dream Mentor",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 32
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 61
+      },
+      {
+        "statname": "Defence",
+        "statvalue": 40
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 49
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 31
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 60
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 55
+      },
+      {
+        "statname": "Combat",
+        "statvalue": 85
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Grim Tales",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 59
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 45
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 52
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 58
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 71
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Legends' Quest",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 50
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 53
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 50
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 53
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 45
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 52
+      },
+      {
+        "statname": "Prayer",
+        "statvalue": 42
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 25
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 50
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 50
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 50
+      },
+      {
+        "statname": "Quest",
+        "statvalue": 107
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Monkey Madness I",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Mourning's Ends Part I",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 56
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 10
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 60
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Mourning's Ends Part II",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 56
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 10
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 60
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Recipe for Disaster",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 48
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 70
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 40
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 50
+      },
+      {
+        "statname": "Fishing",
+        "statvalue": 53
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 25
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 59
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 50
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 40
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 40
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 53
+      },
+      {
+        "statname": "Woodcutting",
+        "statvalue": 36
+      },
+      {
+        "statname": "Quest",
+        "statvalue": 175
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Regicide",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 56
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 10
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Roving Elves",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 56
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 10
+      },
+      {
+        "statname": "Ranged",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Swan Song",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 36
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 62
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 40
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 25
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 42
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 18
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 66
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 45
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Monkey Madness II",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 55
+      },
+      {
+        "statname": "Construction",
+        "statvalue": 5
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 70
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 70
+      },
+      {
+        "statname": "Farming",
+        "statvalue": 30
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 14
+      },
+      {
+        "statname": "Hunter",
+        "statvalue": 60
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 46
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 40
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 55
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Alfred Grimhand's Barcrawl",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Architectural Alliance",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 30
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 42
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Bear your Soul",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Curse of the Empty Lord",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 50
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 10
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 10
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 50
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 10
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 53
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Enchanted Key",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Enter the Abyss",
+    "skillreqs": [],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Family Pest",
+    "skillreqs": [
+      {
+        "statname": "Crafting",
+        "statvalue": 40
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 59
+      },
+      {
+        "statname": "Mining",
+        "statvalue": 40
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 40
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The General's Shadow",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Firemaking",
+        "statvalue": 50
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 10
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 10
+      },
+      {
+        "statname": "Magic",
+        "statvalue": 50
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 10
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 20
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 53
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Lair of Tarn Razorlor",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 15
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 35
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 40
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Mage Arena",
+    "skillreqs": [
+      {
+        "statname": "Magic",
+        "statvalue": 60
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "The Mage Arena II",
+    "skillreqs": [
+      {
+        "statname": "Magic",
+        "statvalue": 75
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Rag and Bone Man II",
+    "skillreqs": [
+      {
+        "statname": "Agility",
+        "statvalue": 35
+      },
+      {
+        "statname": "Cooking",
+        "statvalue": 30
+      },
+      {
+        "statname": "Crafting",
+        "statvalue": 20
+      },
+      {
+        "statname": "Fletching",
+        "statvalue": 5
+      },
+      {
+        "statname": "Herblore",
+        "statvalue": 8
+      },
+      {
+        "statname": "Smithing",
+        "statvalue": 4
+      },
+      {
+        "statname": "Slayer",
+        "statvalue": 40
+      },
+      {
+        "statname": "Thieving",
+        "statvalue": 25
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  },
+  {
+    "name": "Skippy and the Mogres",
+    "skillreqs": [
+      {
+        "statname": "Cooking",
+        "statvalue": 20
+      }
+    ],
+    "questreqs": [],
+    "itemreqs": [],
+    "rewards": {
+      "lamps": [],
+      "experience": [],
+      "items": [],
+      "access": []
+    }
+  }
+]
