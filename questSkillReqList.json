@@ -830,58 +830,70 @@
         "statvalue": 35
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "The restless ghost",
+      "Ernest the chicken",
+      "Priest in peril"
+    ],
+    "itemreqs": [
+      {"name": "Mithril axe", "quantity": 1},
+      {"name": "Iron bar", "quantity": 5},
+      {"name": "Ghostspeak amulet", "quantity": 1},
+      {"name": "Ecto-token", "quantity": 20},
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Holy symbol", "quantity": 1},
+      {"name": "Polished buttons", "quantity": 1},
+      {"name": "Hard Leather", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Fletching", "statvalue": 1000},
+        {"statname": "Crafting", "statvalue": 1000},
+        {"statname": "Slayer", "statvalue": 1000},
+        {"statname": "Woodcutting", "statvalue": 2500}
+      ],
       "items": [],
-      "access": []
+      "access": [
+        "Unlock Ava's attractor",
+        "Unlock Ava's accumulator"
+      ]
     }
   },
   {
     "name": "Another Slice of H.A.M.",
     "skillreqs": [
       {
-        "statname": "Agility",
-        "statvalue": 23
-      },
-      {
         "statname": "Attack",
         "statvalue": 15
       },
       {
-        "statname": "Crafting",
-        "statvalue": 12
-      },
-      {
-        "statname": "Firemaking",
-        "statvalue": 16
-      },
-      {
-        "statname": "Herblore",
-        "statvalue": 10
-      },
-      {
-        "statname": "Mining",
-        "statvalue": 17
-      },
-      {
         "statname": "Prayer",
-        "statvalue": 25
-      },
-      {
-        "statname": "Thieving",
         "statvalue": 25
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "Death to the Dorgeshuun",
+      "The giant dwarf",
+      "The dig site",
+      "Druidic ritual"
+    ],
+    "itemreqs": [
+      {"name": "Tinderbox", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Mining", "statvalue": 3000},
+        {"statname": "Prayer", "statvalue": 3000}
+      ],
+      "items": [
+        {"name": "Ancient mace", "quantity": 1}
+      ],
+      "access": [
+        "Unlock Goblin village sphere",
+        "Unlock Keldagrim train route Dorgesh-Kaan"
+      ]
     }
   },
   {
@@ -901,12 +913,33 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Any axe", "quantity": 1},
+      {"name": "Feathers", "quantity": 100},
+      {"name": "Knife", "quantity": 1},
+      {"name": "Chisel", "quantity": 1},
+      {"name": "Wolf bones", "quantity": 4},
+      {"name": "Cabbage", "quantity": 1},
+      {"name": "Tomato", "quantity": 1},
+      {"name": "Onion", "quantity": 1},
+      {"name": "Potato", "quantity": 1},
+      {"name": "Equa leaves", "quantity": 1},
+      {"name": "Doogle leaves", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Fletching", "statvalue": 262},
+        {"statname": "Cooking", "statvalue": 1470},
+        {"statname": "Range", "statvalue": 735}
+      ],
+      "items": [
+        {"name": "Ogre bow", "quantity": 1}
+      ],
+      "access": [
+        "Unlock Ogre arrow fletching",
+        "Unlock Chompy bird cooking",
+      ]
     }
   },
   {
