@@ -1239,12 +1239,36 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Papyrus", "quantity": 3},
+      {"name": "Ball of wool", "quantity": 1},
+      {"name": "Sack of potatoes", "quantity": 1},
+      {"name": "Candle", "quantity": 1},
+      {"name": "Yellow dye", "quantity": 1},
+      {"name": "Red dye", "quantity": 1},
+      {"name": "Silk", "quantity": 10},
+      {"name": "Bowl", "quantity": 1},
+      {"name": "Empty sack", "quantity": 8},
+      {"name": "Willow branch", "quantity": 12},
+      {"name": "Tinderbox", "quantity": 1},
+      {"name": "Logs", "quantity": 10}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Crafting", "statvalue": 2000},
+        {"statname": "Farming", "statvalue": 3000},
+        {"statname": "Woodcutting", "statvalue": 1500},
+        {"statname": "Firemaking", "statvalue": 4000}
+      ],
+      "items": [
+        {"name": "Bomber jacket", "quantity": 1},
+        {"name": "Bomber cap", "quantity": 1}
+      ],
+      "access": [
+        "Balloon transport system",
+        "Make origami balloons"
+      ]
     }
   },
   {
@@ -1263,13 +1287,32 @@
         "statvalue": 46
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "The grand tree"
+    ],
+    "itemreqs": [
+      {"name": "Bucket of sap", "quantity": 1},
+      {"name": "Mud rune", "quantity": 1},
+      {"name": "Pestle and mortar", "quantity": 1},
+      {"name": "Maple log", "quantity": 1},
+      {"name": "Oak log", "quantity": 1},
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Saw", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Magic", "statvalue": 12000},
+        {"statname": "Woodcutting", "statvalue": 2500},
+        {"statname": "Runecrafting", "statvalue": 6000},
+        {"statname": "Construction", "statvalue": 250}
+      ],
+      "items": [
+        {"name": "Small crystal seed", "quantity": 1}
+      ],
+      "access": [
+        "Make crystal saw"
+      ]
     }
   },
   {
@@ -1281,12 +1324,32 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Kharidian headpiece", "quantity": 1},
+      {"name": "Fake beard", "quantity": 1},
+      {"name": "Shantay pass", "quantity": 1},
+      {"name": "Coins", "quantity": 2000},
+      {"name": "Bucket", "quantity": 1},
+      {"name": "Beer", "quantity": 3},
+      {"name": "Leather gloves", "quantity": 1},
+      {"name": "Spade", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Thieving", "statvalue": 15000}
+      ],
+      "items": [
+        {"name": "Coins", "quantity": 500},
+        {"name": "Oak blackjack", "quantity": 1},
+        {"name": "Desert disguise", "quantity": 1},
+        {"name": "Willow blackjack", "quantity": 1},
+        {"name": "Adamant scimitar", "quantity": 1}
+      ],
+      "access": [
+        "Rogue trader minigame",
+        "Blackjack thieving"
+      ]
     }
   },
   {
@@ -1317,12 +1380,32 @@
         "statvalue": 14
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "The giant dwarf",
+      "Fishing contest"
+    ],
+    "itemreqs": [
+      {"name": "Coins", "quantity": 1000},
+      {"name": "Barley malt", "quantity": 2},
+      {"name": "Bucket of water", "quantity": 2},
+      {"name": "Spade", "quantity": 1},
+      {"name": "Seed dibber", "quantity": 1},
+      {"name": "Rake", "quantity": 1},
+      {"name": "Pot", "quantity": 1},
+      {"name": "Kebab", "quantity": 1},
+      {"name": "Beer", "quantity": 3},
+      {"name": "Dwarven stout", "quantity": 1},
+      {"name": "Beer glass", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
+      "experience": [
+        {"statname": "Farming", "statvalue": 5000},
+        {"statname": "Cooking", "statvalue": 5000}
+      ],
+      "items": [
+        {"name": "Dwarven stout (m)", "quantity": 2}
+      ],
       "access": []
     }
   },
