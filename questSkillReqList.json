@@ -967,12 +967,33 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Oak plank", "quantity": 10},
+      {"name": "Steel nail", "quantity": 10},
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Spade", "quantity": 1},
+      {"name": "Plank", "quantity": 1},
+      {"name": "Silk", "quantity": 1},
+      {"name": "Clockwork", "quantity": 1},
+      {"name": "Swamp tar", "quantity": 1},
+      {"name": "Feather", "quantity": 5},
+      {"name": "Mahogany plank", "quantity": 1},
+      {"name": "Leather", "quantity": 1},
+      {"name": "Raw cod", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Crafting", "statvalue": 2000},
+        {"statname": "Agility", "statvalue": 5000},
+        {"statname": "Construction", "statvalue": 1500}
+      ],
+      "items": [
+        {"name": "Penguin suit", "quantity": 1}
+      ],
+      "access": [
+        "Penguin agility course"
+      ]
     }
   },
   {
@@ -988,12 +1009,27 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Ghostspeak amulet", "quantity": 1},
+      {"name": "Silver bar", "quantity": 1},
+      {"name": "Bronze wire", "quantity": 3},
+      {"name": "Needle", "quantity": 1},
+      {"name": "Thread", "quantity": 5},
+      {"name": "Spade", "quantity": 1},
+      {"name": "Coins", "quantity": 100}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Thieving", "statvalue": 1000}
+      ],
+      "items": [
+        {"name": "Ring of Charos", "quantity": 1}
+      ],
+      "access": [
+        "Unlock werewolf agility course"
+      ]
     }
   },
   {
@@ -1024,11 +1060,26 @@
         "statvalue": 22
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "In aid of the Myreque"
+    ],
+    "itemreqs": [
+      {"name": "Any nails", "quantity": 8},
+      {"name": "Plank", "quantity": 2},
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Knife", "quantity": 1},
+      {"name": "Law rune", "quantity": 1},
+      {"name": "Air rune", "quantity": 1}
+    ],
     "rewards": {
-      "lamps": [],
-      "experience": [],
+      "lamps": [
+        {"name": "Tome of experience", "quantity": 3, "minlevel": 30, "xpvalue": 2000, "skills": "All"}
+      ],
+      "experience": [
+        {"statname": "Agility", "statvalue": 7000},
+        {"statname": "Thieving", "statvalue": 6000},
+        {"statname": "Construction", "statvalue": 2000}
+      ],
       "items": [],
       "access": []
     }
@@ -1049,13 +1100,34 @@
         "statvalue": 23
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "The lost tribe"
+    ],
+    "itemreqs": [
+      {"name": "Ham hood", "quantity": 2},
+      {"name": "Ham shirt", "quantity": 2},
+      {"name": "Ham robe", "quantity": 2},
+      {"name": "Ham gloves", "quantity": 2},
+      {"name": "Ham boots", "quantity": 2},
+      {"name": "Ham cloak", "quantity": 2},
+      {"name": "Ham logo", "quantity": 2},
+      {"name": "Light source", "quantity": 1},
+      {"name": "Any pickaxe", "quantity": 1},
+      {"name": "Rope", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
+      "experience": [
+        {"statname": "Thieving", "statvalue": 2000},
+        {"statname": "Ranged", "statvalue": 2000}
+      ],
       "items": [],
-      "access": []
+      "access": [
+        "H.A.M. storerooms",
+        "Dorgesh-Kaan city",
+        "Dorgeshuun crossbow special attack",
+        "Bone dagger special attack"
+      ]
     }
   },
   {
@@ -1074,13 +1146,32 @@
         "statvalue": 25
       }
     ],
-    "questreqs": [],
-    "itemreqs": [],
+    "questreqs": [
+      "Druidic ritual"
+    ],
+    "itemreqs": [
+      {"name": "Pestle and mortar", "quantity": 1},
+      {"name": "Vial", "quantity": 1},
+      {"name": "Tinderbox", "quantity": 1},
+      {"name": "Cup of tea", "quantity": 1},
+      {"name": "Rope", "quantity": 2},
+      {"name": "Opal", "quantity": 1},
+      {"name": "Charcoal", "quantity": 1},
+      {"name": "Leather boots", "quantity": 1},
+      {"name": "Leather gloves", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Mining", "statvalue": 15300},
+        {"statname": "Herblore", "statvalue": 2000}
+      ],
+      "items": [
+        {"name": "Gold bar", "quantity": 2}
+      ],
+      "access": [
+        "Varrock museum specimen cleaning"
+      ]
     }
   },
   {
@@ -1104,12 +1195,27 @@
       }
     ],
     "questreqs": [],
-    "itemreqs": [],
+    "itemreqs": [
+      {"name": "Any pickaxe", "quantity": 1},
+      {"name": "Hammer", "quantity": 1},
+      {"name": "Coal", "quantity": 8},
+      {"name": "Battered Key", "quantity": 1}
+    ],
     "rewards": {
       "lamps": [],
-      "experience": [],
-      "items": [],
-      "access": []
+      "experience": [
+        {"statname": "Smithing", "statvalue": 7500},
+        {"statname": "Crafting", "statvalue": 7500}
+      ],
+      "items": [
+        {"name": "Mind helmet", "quantity": 1}
+      ],
+      "access": [
+        "Mind helmet smithing",
+        "Mind shield smithing",
+        "Use mind helmet",
+        "Use mind shield"
+      ]
     }
   },
   {
