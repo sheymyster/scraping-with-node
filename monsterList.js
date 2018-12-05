@@ -1,4 +1,4 @@
-[
+const monsterNames = [
   "Chicken",
   "Drake",
   "Duck",
@@ -966,3 +966,5 @@
   "TzKal-Zuk",
   "Verzik Vitur"
 ]
+
+module.exports = {monsterNames: monsterNames};
