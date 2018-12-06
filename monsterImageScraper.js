@@ -20,7 +20,7 @@ function makeMonsterUrls() {
   let k;
   let len = monsterNamesForImages.monsterNamesForImages.length;
   for (k=0; k<len; k++) {
-    urls.push("https://oldschool.runescape.wiki/w/File:" + monsterNamesForImages.monsterNamesForImages[k].replace(" ", "_") + ".png")
+    urls.push("https://oldschool.runescape.wiki/w/File:" + monsterNamesForImages.monsterNamesForImages[k].split(' ').join('_') + ".png")
   };
   return urls;
 };
@@ -41,7 +41,7 @@ let monsterNamesAndImageUrls = {};
         let uniqueLink = parsedLink.slice(8, parsedLink.indexOf(".png"));
         monsterNamesAndImageUrls[monsterName] = uniqueLink;
       } catch (e) {
-
+        console.log(url);
       }
     }));
 
