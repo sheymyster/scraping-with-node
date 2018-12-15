@@ -1,0 +1,585 @@
+Bronze defender
+Member icon.png
++3	+2	+1	-3	-2	+3	+2	+1	-3	-2	+0	+0	+0	+0
+Bronze sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+5	+6	+4	+0	+5	+0	+0	+0	+0
+Bronze kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+5	+7	+6	-1	+6	+0	+0	+0	+0
+Iron kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+8	+10	+9	-1	+9	+0	+0	+0	+0
+Iron sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+8	+9	+7	+0	+8	+0	+0	+0	+0
+Dragon sq shield
+Member icon.png
++0	+0	+0	-6	-2	+50	+52	+48	+0	+50	+0	+0	+0	+0
+Steel defender
+Member icon.png
++7	+6	+5	-3	-2	+7	+6	+5	-3	-2	+1	+0	+0	+0
+Steel sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+12	+13	+11	+0	+12	+0	+0	+0	+0
+Black kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Black defender
+Member icon.png
++9	+8	+7	-3	-2	+9	+8	+7	-3	-2	+2	+0	+0	+0
+Adamant defender
+Member icon.png
++13	+12	+11	-3	-2	+13	+12	+11	-3	-2	+4	+0	+0	+0
+Adamant kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+24	+26	+22	+0	+24	+0	+0	+0	+0
+Anti-dragon shield
+Free-to-play icon.png
++0	+0	+0	+0	+0	+7	+9	+8	+2	+8	+0	+0	+0	+0
+Iron defender
+Member icon.png
++5	+4	+3	-3	-2	+5	+4	+3	-3	-2	+0	+0	+0	+0
+Mithril defender
+Member icon.png
++10	+9	+8	-3	-2	+10	+9	+8	-3	-2	+3	+0	+0	+0
+Mithril kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+18	+22	+20	-1	+20	+0	+0	+0	+0
+Mithril sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+17	+19	+15	+0	+17	+0	+0	+0	+0
+Rune kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Steel kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Crystal shield
+Member icon.png
++0	+0	+0	-10	-10	+	+	+	+0	+	+0	+0	+0	+0
+Elemental shield
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+6	+0	+0	+0	+0	+0
+Fremennik shield (The Fremennik Isles)
+Member icon.png
++0	+0	+0	-10	-10	+17	+17	+31	-4	+33	+0	+0	+0	+0
+Fremennik shield
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Granite shield
+Member icon.png
++0	+0	+0	-12	-8	+40	+42	+38	+0	+65	+0	+0	+0	+0
+Bug lantern
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Mage's book
+Member icon.png
++0	+0	+0	+15	+0	+0	+0	+0	+15	+0	+0	+0	+0	+0
+Mirror shield
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+5	+5	+10	+0	+0	+0	+0
+Toktz-ket-xil
+Member icon.png
++0	+0	+0	-12	-8	+40	+42	+38	+0	+65	+5	+0	+0	+0
+Training shield
+Free-to-play icon.png
++0	+0	+0	+0	+0	+4	+5	+3	+1	+4	+0	+0	+0	+0
+White kiteshield
+Member icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+1
+Zamorak kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+1
+Wooden shield
+Free-to-play icon.png
++0	+0	+0	+0	+0	+4	+5	+3	+1	+4	+0	+0	+0	+0
+Book of balance
+Member icon.png
++4	+4	+4	+4	+4	+4	+4	+4	+4	+4	+0	+0	+0	+5
+Gilded kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune defender
+Member icon.png
++20	+19	+18	-3	-2	+20	+19	+18	-3	-2	+5	+0	+0	+0
+Dragonfire shield
+Member icon.png
++0	+0	+0	-10	-5	+	+	+	+	+	+7	+0	+0	+0
+Rune sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+38	+40	+36	+0	+38	+0	+0	+0	+0
+Holy book
+Member icon.png
++0	+0	+0	+0	+0	+8	+8	+8	+8	+8	+0	+0	+0	+5
+Saradomin kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+1
+Unholy book
+Member icon.png
++8	+8	+8	+8	+8	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Mind shield
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+9	+0	+0	+0	+0	+0
+Dragon defender
+Member icon.png
++25	+24	+23	-3	-2	+25	+24	+23	-3	-2	+6	+0	+0	+0
+Dragon kiteshield
+Member icon.png
++0	+0	+0	-8	-2	+56	+60	+58	-1	+58	+0	+0	+0	+0
+Adamant shield (h5)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Black shield (h5)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Black sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+15	+16	+14	+0	+15	+0	+0	+0	+0
+Black shield (h2)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+White sq shield
+Member icon.png
++0	+0	+0	-6	-2	+15	+16	+14	+0	+15	+0	+0	+0	+1
+Adamant shield (h3)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Rune shield (h1)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune shield (h2)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune shield (h3)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune shield (h4)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune shield (h5)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Guthix kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+1
+Decorative shield (gold)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Decorative shield (white)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+18	+22	+20	-1	+20	+0	+0	+0	+0
+Decorative shield (red)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Plain satchel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black satchel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gold satchel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Wooden shield (Weapons rack)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Malediction ward
+Member icon.png
+-8	-8	-8	+12	-12	+50	+52	+48	+15	+0	+0	+0	+0	+0
+Odium ward
+Member icon.png
+-12	-12	-12	-8	+12	+0	+0	+0	+24	+52	+0	+0	+0	+0
+Adamant shield (h1)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant shield (h4)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant shield (h2)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Black shield (h4)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Black shield (h3)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Black shield (h1)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Black kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+17	+19	+18	-1	+18	+0	+0	+0	+0
+Defensive shield
+Member icon.png
++0	+0	+0	-6	-2	+8	+9	+7	+0	+7	+0	+0	+0	+0
+Armadyl kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+1
+Ancient kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+1
+Mithril kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+18	+22	+20	-1	+20	+0	+0	+0	+0
+Iron kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+8	+10	+9	-1	+9	+0	+0	+0	+0
+Iron kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+8	+10	+9	-1	+9	+0	+0	+0	+0
+Bandos kiteshield
+Free-to-play icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+1
+Briefcase
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bronze kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+5	+7	+6	-1	+6	+0	+0	+0	+0
+Bronze kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+5	+7	+6	-1	+6	+0	+0	+0	+0
+Mithril kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+18	+22	+20	-1	+20	+0	+0	+0	+0
+Dragon sq shield (g)
+Member icon.png
++0	+0	+0	-6	-2	+50	+52	+48	+0	+50	+0	+0	+0	+0
+Book of darkness
+Member icon.png
++0	+0	+0	+10	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Book of law
+Member icon.png
++0	+0	+0	+0	+10	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Book of war
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+2	+0	+0	+5
+Spirit shield
+Member icon.png
++0	+0	+0	+0	+0	+39	+41	+50	+1	+45	+0	+0	+0	+1
+Odium ward (or)
+Member icon.png
+-12	-12	-12	-8	+12	+0	+0	+0	+24	+52	+0	+0	+0	+0
+Malediction ward (or)
+Member icon.png
+-8	-8	-8	+12	-12	+50	+52	+48	+15	+0	+0	+0	+0	+0
+Elysian spirit shield
+Member icon.png
++0	+0	+0	+0	+0	+63	+65	+75	+2	+57	+0	+0	+0	+3
+Arcane spirit shield
+Member icon.png
++0	+0	+0	+20	+0	+53	+55	+73	+2	+52	+0	+0	+0	+3
+Spectral spirit shield
+Member icon.png
++0	+0	+0	+0	+0	+53	+55	+73	+30	+52	+0	+0	+0	+3
+Blessed spirit shield
+Member icon.png
++0	+0	+0	+0	+0	+53	+55	+73	+2	+52	+0	+0	+0	+3
+Falador shield 1
+Member icon.png
++0	+0	+0	-8	-2	+8	+10	+9	-1	+9	+0	+0	+0	+1
+Falador shield 2
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+3
+Falador shield 4
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+5
+Falador shield 3
+Member icon.png
++0	+0	+0	-8	-2	+18	+22	+20	-1	+20	+0	+0	+0	+4
+Damaged book (Bandos)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Damaged book (Armadyl)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Damaged book (Ancient)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Damaged book (Saradomin)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Damaged book (Zamorak)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Damaged book (Guthix)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+3rd age kiteshield
+Member icon.png
++0	+0	+0	-10	-4	+63	+65	+61	-3	+63	+0	+0	+0	+0
+Green satchel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Red satchel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Rune satchel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Chronicle
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Cruciferous codex
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Steel kiteshield (Arrav)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Asgarnia)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Dorgeshuun)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Dragon)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Fairy)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Guthix)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (HAM)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Horse)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Jogre)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Kandarin)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Misthalin)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Money)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Saradomin)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Skull)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Varrock)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (Zamorak)
+Member icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Rune kiteshield (Arrav)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Asgarnia)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Dorgeshuun)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Dragon)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Fairy)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Guthix)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (HAM)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Horse)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Jogre)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Kandarin)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Misthalin)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Money)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Saradomin)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Skull)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Varrock)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Rune kiteshield (Zamorak)
+Member icon.png
++0	+0	+0	-8	-2	+44	+48	+46	-1	+46	+0	+0	+0	+0
+Wooden shield (g)
+Free-to-play icon.png
++0	+0	+0	+0	+0	+4	+5	+3	+1	+4	+0	+0	+0	+0
+Steel kiteshield (t)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Steel kiteshield (g)
+Free-to-play icon.png
++0	+0	+0	-8	-2	+13	+15	+14	-1	+14	+0	+0	+0	+0
+Cabbage round shield
+Member icon.png
++0	+0	+0	-6	-2	+24	+26	+22	+0	+24	+0	+0	+0	+0
+Gilded sq shield
+Free-to-play icon.png
++0	+0	+0	-6	-2	+38	+40	+36	+0	+38	+0	+0	+0	+0
+Dragon defender (t)
+Member icon.png
++25	+24	+23	-3	-2	+25	+24	+23	-3	-2	+6	+0	+0	+0
+Tome of fire
+Member icon.png
++0	+0	+0	+8	+0	+0	+0	+0	+8	+0	+0	+0	+0	+0
+Corrupted kiteshield
+Member icon.png
++0	+0	+0	-8	-2	+8	+10	+9	-1	+9	+0	+0	+0	+0
+Twisted buckler
+Member icon.png
+-7	-8	-7	-10	+18	+22	+24	+22	+26	+58	+0	+0	+0	+0
+Magic shield
+Member icon.png
++0	+0	+0	+0	+0	+10	+13	+9	+3	+9	+0	+0	+0	+0
+Ancient wyvern shield
+Member icon.png
+-10	-10	-10	+15	-10	+	+	+	+15	+	-2	+0	+0	+0
+Runefest shield
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Broodoo shield (blue)
+Member icon.png
++0	+0	+0	+3	-7	+10	+10	+15	+5	+0	+0	+0	+0	+5
+Broodoo shield (orange)
+Member icon.png
++0	+0	+0	+3	-7	+10	+10	+15	+5	+0	+0	+0	+0	+5
+Broodoo shield (green)
+Member icon.png
++0	+0	+0	+3	-7	+10	+10	+15	+5	+0	+0	+0	+0	+5
+Kharedst's memoirs
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Dragonfire ward
+Member icon.png
+-10	-10	-10	-10	+15	+	+	+	+28	+	-2	+0	+0	+0
+Adamant kiteshield (Arrav)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Asgarnia)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Dorgeshuun)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Dragon)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Fairy)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Guthix)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Saradomin)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Zamorak)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (HAM)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Horse)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Jogre)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Kandarin)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Misthalin)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Money)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Skull)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Adamant kiteshield (Varrock)
+Member icon.png
++0	+0	+0	-8	-2	+27	+31	+29	-1	+29	+0	+0	+0	+0
+Dragon kiteshield (g)
+Member icon.png
++0	+0	+0	-8	-2	+56	+60	+58	-1	+58	+0	+0	+0	+0
+Oak shield
+Member icon.png
++0	+0	+0	+0	+0	+5	+6	+4	+1	+5	+0	+0	+0	+0
+Willow shield
+Member icon.png
++0	+0	+0	+0	+0	+6	+7	+5	+2	+6	+0	+0	+0	+0
+Maple shield
+Member icon.png
++0	+0	+0	+0	+0	+7	+8	+6	+2	+7	+0	+0	+0	+0
+Yew shield
+Member icon.png
++0	+0	+0	+0	+0	+8	+9	+7	+3	+8	+0	+0	+0	+0
+Redwood shield
+Member icon.png
++0	+0	+0	+0	+0	+12	+15	+11	+4	+10	+0	+0	+0	+0
+Hard leather shield
+Member icon.png
+-15	-15	-11	-10	+2	+8	+7	+7	+5	+9	+0	+0	+0	+0
+Snakeskin shield
+Member icon.png
+-15	-15	-11	-10	+3	+10	+9	+8	+7	+10	+0	+0	+0	+0
+Green d'hide shield
+Member icon.png
+-15	-15	-11	-10	+4	+14	+12	+11	+9	+11	+0	+0	+0	+0
+Blue d'hide shield
+Member icon.png
+-15	-15	-11	-10	+5	+16	+14	+12	+12	+12	+0	+0	+0	+0
+Red d'hide shield
+Member icon.png
+-15	-15	-11	-10	+6	+18	+16	+14	+13	+13	+0	+0	+0	+0
+Black d'hide shield
+Member icon.png
+-15	-15	-11	-10	+7	+21	+18	+16	+15	+14	+0	+0	+0	+0
+Avernic defender
+Member icon.png
++30	+29	+28	-5	-4	+30	+29	+28	-5	-4	+8	+0	+0	+0
+Chicken (Recruitment Drive)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Crystal shield (i)
+Member icon.png
++0	+0	+0	-10	-10	+51	+54	+53	+0	+80	+0	+0	+0	+0

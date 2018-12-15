@@ -1,0 +1,141 @@
+Archers ring
+Member icon.png
++0	+0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0
+Beacon ring
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+1	+0	+0	+0	+0	+0
+Berserker ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+4	+0	+0	+4	+0	+0	+0
+Diamond ring
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragonstone ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gold ring
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Lunar ring
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+0
+Onyx ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of dueling
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of wealth
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ruby ring
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sapphire ring
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Seers ring
+Member icon.png
++0	+0	+0	+6	+0	+0	+0	+0	+6	+0	+0	+0	+0	+0
+Warrior ring
+Member icon.png
++0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+0	+0	+0
+Emerald ring
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of visibility
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of recoil
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Berserker ring (i)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+8	+0	+0	+8	+0	+0	+0
+Warrior ring (i)
+Member icon.png
++0	+8	+0	+0	+0	+0	+8	+0	+0	+0	+0	+0	+0	+0
+Archers ring (i)
+Member icon.png
++0	+0	+0	+0	+8	+0	+0	+0	+0	+8	+0	+0	+0	+0
+Seers ring (i)
+Member icon.png
++0	+0	+0	+12	+0	+0	+0	+0	+12	+0	+0	+0	+0	+0
+Slayer ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tyrannical ring
+Member icon.png
++0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+0	+0
+Treasonous ring
+Member icon.png
++4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of the gods
+Member icon.png
++0	+0	+0	+0	+0	+1	+1	+1	+1	+1	+0	+0	+0	+4
+Tyrannical ring (i)
+Member icon.png
++0	+0	+8	+0	+0	+0	+0	+8	+0	+0	+0	+0	+0	+0
+Treasonous ring (i)
+Member icon.png
++8	+0	+0	+0	+0	+8	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of wealth (i)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Explorer's ring 1
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Explorer's ring 2
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Explorer's ring 3
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Explorer's ring 4
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+'perfect' ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of the gods (i)
+Member icon.png
++0	+0	+0	+0	+0	+1	+1	+1	+1	+1	+0	+0	+0	+8
+Ring of suffering
+Member icon.png
++0	+0	+0	+0	+0	+10	+10	+10	+10	+10	+0	+0	+0	+2
+Zenyte ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of suffering (i)
+Member icon.png
++0	+0	+0	+0	+0	+20	+20	+20	+20	+20	+0	+0	+0	+4
+Opal ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Jade ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Topaz ring
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of pursuit
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ring of returning
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Efaritay's aid
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Slayer ring (eternal)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Granite ring
+Member icon.png
++0	+0	+0	+0	+0	+2	+2	+2	-2	+8	+0	+0	+0	+0
+Granite ring (i)
+Member icon.png
++0	+0	+0	+0	+0	+4	+4	+4	-4	+16	+0	+0	+0	+0
+Brimstone ring
+Member icon.png
++4	+4	+4	+6	+4	+4	+4	+4	+6	+4	+4	+0	+0	+0

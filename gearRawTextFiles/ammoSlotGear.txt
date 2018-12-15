@@ -1,0 +1,318 @@
+Opal bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+14	+0	+0
+Barbed bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+12	+0	+0
+Opal bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+14	+0	+0
+Bronze javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+25	+0	+0
+Pearl bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+48	+0	+0
+Pearl bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+48	+0	+0
+Steel javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+64	+0	+0
+Steel brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+19	+0	+0
+Bronze bolts	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0
+Steel bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+64	+0	+0
+Iron bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+46	+0	+0
+Adamant arrow	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+31	+0	+0
+Adamant bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+100	+0	+0
+Adamant javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+107	+0	+0
+Bronze arrow	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+7	+0	+0
+Bronze brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+11	+0	+0
+Bronze fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+7	+0	+0
+Iron arrow	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0
+Iron javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+42	+0	+0
+Mithril arrow	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+22	+0	+0
+Mithril bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+82	+0	+0
+Mithril javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+85	+0	+0
+Rune arrow
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+49	+0	+0
+Rune javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+124	+0	+0
+Steel arrow	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+16	+0	+0
+Blurite bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+28	+0	+0
+Bolt rack
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+55	+0	+0
+Bone bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+49	+0	+0
+Diamond bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+105	+0	+0
+Diamond bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+105	+0	+0
+Dragon arrow
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+60	+0	+0
+Dragonstone bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+117	+0	+0
+Emerald bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+85	+0	+0
+Emerald bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+85	+0	+0
+Guam tar
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+16	+0	+0
+Ice arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+16	+0	+0
+Jade bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+30	+0	+0
+Kebbit bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+28	+0	+0
+Long kebbit bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+38	+0	+0
+Marrentill tar
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+22	+0	+0
+Onyx bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+120	+0	+0
+Ruby bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+103	+0	+0
+Ruby bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+103	+0	+0
+Runite bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+115	+0	+0
+Sapphire bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+83	+0	+0
+Sapphire bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+83	+0	+0
+Silver bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+36	+0	+0
+Training arrows
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+7	+0	+0
+Jade bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+30	+0	+0
+Dragonstone bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+117	+0	+0
+Onyx bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+120	+0	+0
+Topaz bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+66	+0	+0
+Mith grapple
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Rune brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+60	+0	+0
+Iron brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+13	+0	+0
+Broad arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+28	+0	+0
+Iron fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0
+Topaz bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+66	+0	+0
+Tarromin tar
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+31	+0	+0
+Harralander tar
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+49	+0	+0
+Broad bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+100	+0	+0
+Adamant brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+45	+0	+0
+Black brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+22	+0	+0
+Mithril brutal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+34	+0	+0
+Ogre arrow
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+22	+0	+0
+Rune fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+49	+0	+0
+Steel fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+16	+0	+0
+Mithril fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+22	+0	+0
+Adamant fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+31	+0	+0
+Dragon fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+60	+0	+0
+Dragon javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+150	+0	+0
+Holy blessing
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Peaceful blessing
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Unholy blessing
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Honourable blessing
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+War blessing
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Ancient blessing
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Amethyst broad bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+115	+0	+0
+Amethyst arrow
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+55	+0	+0
+Amethyst fire arrows
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+55	+0	+0
+Amethyst javelin
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+135	+0	+0
+Dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Diamond dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Opal dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Jade dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Pearl dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Topaz dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Sapphire dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Emerald dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Ruby dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Dragonstone dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Onyx dragon bolts (e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Opal dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Jade dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Pearl dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Topaz dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Sapphire dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Emerald dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Ruby dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Diamond dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Dragonstone dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Onyx dragon bolts
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+122	+0	+0
+Bullet arrow
+Member icon.png
++0	+0	+0	+0	+46	+0	+0	+0	+0	+0	+0	+125	+0	+0
+Field arrow
+Member icon.png
++0	+0	+0	+0	+46	+0	+0	+0	+0	+0	+0	+125	+0	+0
+Blunt arrow
+Member icon.png
++0	+0	+0	+0	+46	+0	+0	+0	+0	+0	+0	+125	+0	+0
+Barbed arrow
+Member icon.png
++0	+0	+0	+0	+46	+0	+0	+0	+0	+0	+0	+125	+0	+0
+Rada's blessing 1
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Rada's blessing 2
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Rada's blessing 3
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Rada's blessing 4
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+2

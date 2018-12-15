@@ -1,0 +1,337 @@
+Bronze boots
+Member icon.png
++0	+0	+0	-3	-1	+1	+2	+3	+0	+0	+0	+0	+0	+0
+Iron boots
+Member icon.png
++0	+0	+0	-3	-1	+2	+3	+4	+0	+0	+0	+0	+0	+0
+Steel boots
+Member icon.png
++0	+0	+0	-3	-1	+5	+6	+7	+0	+0	+0	+0	+0	+0
+Black boots
+Member icon.png
++0	+0	+0	-3	-1	+7	+8	+9	+0	+0	+0	+0	+0	+0
+Adamant boots
+Member icon.png
++0	+0	+0	-3	-1	+10	+11	+12	+0	+0	+1	+0	+0	+0
+Mithril boots
+Member icon.png
++0	+0	+0	-3	-1	+8	+9	+10	+0	+0	+0	+0	+0	+0
+Rune boots
+Member icon.png
++0	+0	+0	-3	-1	+12	+13	+14	+0	+0	+2	+0	+0	+0
+Boots of lightness
+Member icon.png
++0	+0	+0	+0	+0	+1	+1	+1	+0	+0	+0	+0	+0	+0
+Builder's boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Desert boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fancy boots
+Free-to-play icon.png
++0	+0	+0	-3	-1	+1	+2	+3	+0	+0	+0	+0	+0	+0
+Fighting boots
+Free-to-play icon.png
++0	+0	+0	-3	-1	+1	+2	+3	+0	+0	+0	+0	+0	+0
+Frog-leather boots
+Member icon.png
++0	+0	+0	-8	+2	+1	+1	+1	+0	+1	+0	+0	+0	+0
+Gardening boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ghostly boots
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+0
+Insulated boots
+Member icon.png
++0	+0	+0	+0	+0	+1	+1	+0	+0	+1	+0	+0	+0	+0
+Leather boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Lumberjack boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ham boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Mime boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Moonclan boots
+Member icon.png
++0	+0	+0	+2	-5	+2	+2	+2	+2	-5	+0	+0	+0	+0
+Ranger boots
+Member icon.png
++0	+0	+0	-10	+8	+2	+3	+4	+2	+0	+0	+0	+0	+0
+Runner boots
+Member icon.png
++0	+0	+0	+1	+1	+8	+8	+8	+0	+0	+0	+0	+0	+0
+Shoes (Spirits of the Elid)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Skeleton boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Slave boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Snakeskin boots
+Member icon.png
++0	+0	+0	-10	+3	+1	+1	+2	+1	+0	+0	+0	+0	+0
+Spined boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Splitbark boots
+Member icon.png
++0	+0	+0	+2	-1	+3	+2	+4	+2	+0	+0	+0	+0	+0
+White boots
+Member icon.png
++0	+0	+0	-3	-1	+7	+8	+9	+0	+0	+0	+0	+0	+1
+Climbing boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+2	+0	+0	+0
+Chicken feet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Spiked boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+2	+0	+0	+0
+Mystic boots (dark)
+Member icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Wizard boots
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+0
+Dragon boots
+Member icon.png
++0	+0	+0	-3	-1	+16	+17	+18	+0	+0	+4	+0	+0	+0
+Infinity boots
+Member icon.png
++0	+0	+0	+5	+0	+0	+0	+0	+5	+0	+0	+0	+0	+0
+Mystic boots (light)
+Member icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Flippers
+Member icon.png
+-2	-2	-2	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Rock-shell boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Skeletal boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Bandos boots
+Member icon.png
++0	+0	+0	-5	-3	+17	+18	+19	+0	+15	+0	+0	+0	+1
+Vyrewatch shoes
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Citizen shoes
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Silly jester boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+5	-5	+0	+0	+0	+0
+Granite boots
+Member icon.png
++0	+0	+0	-3	-1	+15	+16	+17	+0	+8	+3	+0	+0	+0
+Graceful boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Lunar boots
+Member icon.png
++0	+0	+0	+2	-1	+1	+2	+2	+2	+0	+0	+0	+0	+0
+Rogue boots
+Member icon.png
++0	+0	+0	+0	+0	+2	+2	+2	+2	+2	+0	+0	+0	+0
+Mourner boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Zombie boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pirate boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Prospector boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Villager sandals	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Villager sandals (blue)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Villager sandals (yellow)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Villager sandals (pink)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Villager sandals (brown)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gilded boots
+Member icon.png
++0	+0	+0	-3	-1	+12	+13	+14	+0	+0	+2	+0	+0	+0
+Holy sandals
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+3
+Fremennik boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Mystic boots (blue)
+Member icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Santa boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Antisanta boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Cow shoes
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fremennik sea boots 4
+Member icon.png
++0	+0	+0	+1	+1	+10	+11	+12	+0	+0	+1	+0	+0	+0
+Fremennik sea boots 1
+Member icon.png
++0	+0	+0	-3	-1	+2	+3	+4	+0	+0	+0	+0	+0	+0
+Fremennik sea boots 2
+Member icon.png
++0	+0	+0	-3	-1	+5	+6	+7	+0	+0	+0	+0	+0	+0
+Fremennik sea boots 3
+Member icon.png
++0	+0	+0	-3	-1	+7	+8	+9	+0	+0	+0	+0	+0	+0
+Bunny feet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Eternal boots
+Member icon.png
++0	+0	+0	+8	+0	+5	+5	+5	+8	+5	+0	+0	+0	+0
+Pegasian boots
+Member icon.png
++0	+0	+0	-12	+12	+5	+5	+5	+5	+5	+0	+0	+0	+0
+Primordial boots
+Member icon.png
++2	+2	+2	-4	-1	+22	+22	+22	+0	+0	+5	+0	+0	+0
+Angler boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pink boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Green boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Turquoise boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Cream boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Blue boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Purple boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Teal boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Yellow boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Red boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Grey boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Gravedigger boots
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Shayzien boots (1)
+Member icon.png
++0	+0	+0	-2	-1	+1	+2	+3	+0	+0	+0	+0	+0	+0
+Shayzien boots (2)
+Member icon.png
++0	+0	+0	-2	-1	+2	+3	+4	+0	+0	+0	+0	+0	+0
+Shayzien boots (3)
+Member icon.png
++0	+0	+0	-2	-1	+4	+5	+6	+0	+0	+0	+0	+0	+0
+Shayzien boots (4)
+Member icon.png
++0	+0	+0	-2	-1	+5	+6	+7	+0	+0	+0	+0	+0	+0
+Shayzien boots (5)
+Member icon.png
++0	+0	+0	-2	-1	+5	+7	+8	+0	+0	+0	+0	+0	+0
+Farmer's boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Clue hunter boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0
+Samurai boots
+Member icon.png
++0	+0	+0	+0	+0	+11	+12	+13	+1	+0	+0	+0	+0	+0
+Mummy's feet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ankou socks
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Boots of darkness
+Member icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Zamorak d'hide boots
+Member icon.png
++0	+0	+0	-10	+7	+4	+4	+4	+4	+4	+0	+0	+0	+1
+Saradomin d'hide boots
+Member icon.png
++0	+0	+0	-10	+7	+4	+4	+4	+4	+4	+0	+0	+0	+1
+Armadyl d'hide boots
+Member icon.png
++0	+0	+0	-10	+7	+4	+4	+4	+4	+4	+0	+0	+0	+1
+Bandos d'hide boots
+Member icon.png
++0	+0	+0	-10	+7	+4	+4	+4	+4	+4	+0	+0	+0	+1
+Guthix d'hide boots
+Member icon.png
++0	+0	+0	-10	+7	+4	+4	+4	+4	+4	+0	+0	+0	+1
+Ancient d'hide boots
+Member icon.png
++0	+0	+0	-10	+7	+4	+4	+4	+4	+4	+0	+0	+0	+1
+Light tuxedo shoes
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dark tuxedo shoes
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Evil chicken feet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pyromancer boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Guardian boots
+Member icon.png
++0	+0	+0	-3	-1	+32	+32	+32	-3	+24	+3	+0	+0	+2
+Snow imp costume feet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragon boots (g)
+Member icon.png
++0	+0	+0	-3	-1	+16	+17	+18	+0	+0	+4	+0	+0	+0
+Clown shoes
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Boots of stone
+Member icon.png
++0	+0	+0	+0	+0	+1	+1	+1	+0	+0	+0	+0	+0	+0
+Boots of brimstone
+Member icon.png
++3	+0	+0	+3	+5	+10	+10	+10	+5	+5	+0	+0	+0	+0
+Devout boots
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5

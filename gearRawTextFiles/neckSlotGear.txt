@@ -1,0 +1,355 @@
+Amulet of accuracy
+Free-to-play icon.png
++4	+4	+4	+4	+4	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of defence
+Free-to-play icon.png
++0	+0	+0	+0	+0	+7	+7	+7	+7	+7	+0	+0	+0	+0
+Amulet of fury
+Member icon.png
++10	+10	+10	+10	+10	+15	+15	+15	+15	+15	+8	+0	+0	+5
+Amulet of glory
+Member icon.png
++10	+10	+10	+10	+10	+3	+3	+3	+3	+3	+6	+0	+0	+3
+Amulet of glory (t)
+Member icon.png
++10	+10	+10	+10	+10	+3	+3	+3	+3	+3	+6	+0	+0	+3
+Amulet of magic
+Free-to-play icon.png
++0	+0	+0	+10	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of magic (t)
+Free-to-play icon.png
++0	+0	+0	+10	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of nature
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of power
+Free-to-play icon.png
++6	+6	+6	+6	+6	+6	+6	+6	+6	+6	+6	+0	+0	+1
+Amulet of strength
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0	+0
+10th squad sigil
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Beads of the dead
+Member icon.png
++1	+1	+1	+1	+1	+1	+1	+1	+1	+1	+1	+0	+0	+1
+Berserker necklace
+Member icon.png
+-10	-10	-10	+0	+0	-20	-20	-20	-20	-20	+7	+0	+0	+3
+Binding necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Brass necklace
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Camulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Catspeak amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Diamond amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Diamond necklace
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Digsite pendant
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Emerald necklace
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Games necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ghostspeak amulet	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gnome amulet
+Member icon.png
++0	+0	+0	+0	+0	+13	+13	+13	+0	+0	+0	+0	+0	+0
+Gnome scarf
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gold amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gold necklace
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Holy symbol
+Free-to-play icon.png
++0	+0	+0	+0	+0	+2	+2	+2	+2	+2	+0	+0	+0	+8
+Lunar amulet
+Member icon.png
++0	+0	+0	+1	+0	+0	+0	+0	+1	+0	+0	+0	+0	+0
+Onyx necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pendant of lucien
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ruby amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Salve amulet (e)
+Member icon.png
++0	+0	+0	+0	+0	+3	+3	+3	+0	+0	+0	+0	+0	+3
+Sapphire amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Silver necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Skills necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Witchwood icon
+Member icon.png
++0	+0	+0	+1	+0	+0	+0	+0	+0	+0	+0	+0	+0	+1
+Yin yang amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Salve amulet
+Member icon.png
++0	+0	+0	+0	+0	+3	+3	+3	+0	+0	+0	+0	+0	+3
+M'speak amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Phoenix necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Glarial's amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Guthix stole
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+10
+Dragonstone amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Hazeel's mark
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Unholy symbol
+Member icon.png
++2	+2	+2	+2	+2	+0	+0	+0	+0	+0	+0	+0	+0	+8
+Unblessed symbol
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Onyx amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ham logo
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sapphire necklace
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Saradomin stole
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+10
+Seal of passage
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Armadyl pendant
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ruby necklace
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Void seal
+Member icon.png
++0	+0	+0	+0	+0	+1	+1	+1	+1	+1	+0	+0	+0	+0
+Crystal pendant
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Strung rabbit foot
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Unpowered symbol
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Emerald amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Strength amulet (t)
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0	+0
+Catspeak amulet(e)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Zamorak stole
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+10
+Bobble scarf
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Jester scarf
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tri-jester scarf
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Woolly scarf
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragon necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pre-nature amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Occult necklace
+Member icon.png
++0	+0	+0	+12	+0	+0	+0	+0	+0	+0	+0	+0	+10	+2
+Clean necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Salve amulet(i)
+Member icon.png
++0	+0	+0	+0	+0	+3	+3	+3	+0	+0	+0	+0	+0	+3
+Salve amulet(ei)
+Member icon.png
++0	+0	+0	+0	+0	+3	+3	+3	+0	+0	+0	+0	+0	+3
+Cat training medal
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Armadyl stole
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+10
+Bandos stole
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+10
+Ancient stole
+Member icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+2	+0	+0	+0	+0	+10
+Amulet of fury (or)
+Member icon.png
++10	+10	+10	+10	+10	+15	+15	+15	+15	+15	+8	+0	+0	+5
+Amulet of the damned
+Member icon.png
++10	+10	+10	+10	+10	+3	+3	+3	+3	+3	+6	+0	+0	+3
+Desert amulet 1
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Desert amulet 2
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Desert amulet 3
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Desert amulet 4
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+3rd age amulet
+Member icon.png
++0	+0	+0	+15	+0	+0	+0	+0	+10	+0	+0	+0	+0	+0
+'perfect' necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Xeric's talisman
+Member icon.png
++0	+0	+0	+	+0	+0	+0	+0	+	+0	+0	+0	+0	+0
+Necklace of anguish
+Member icon.png
++0	+0	+0	+0	+15	+0	+0	+0	+0	+0	+0	+5	+0	+2
+Amulet of torture
+Member icon.png
++15	+15	+15	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0	+2
+Zenyte amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Zenyte necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of eternal glory
+Member icon.png
++10	+10	+10	+10	+10	+3	+3	+3	+3	+3	+6	+0	+0	+3
+Arceuus house scarf
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Hosidius house scarf
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Lovakengj house scarf
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Piscarilius house scarf
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Shayzien house scarf
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Light bow tie
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dark bow tie
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Occult necklace (or)
+Member icon.png
++0	+0	+0	+12	+0	+0	+0	+0	+0	+0	+0	+0	+10	+2
+Amulet of torture (or)
+Member icon.png
++15	+15	+15	+0	+0	+0	+0	+0	+0	+0	+10	+0	+0	+2
+Burning amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Topaz amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Necklace of passage
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Opal necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Jade necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Topaz necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Opal amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Jade amulet
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dodgy necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Necklace of faith
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of bounty
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of chemistry
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Rainbow scarf
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragonbone necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+12
+Necklace of anguish (or)
+Member icon.png
++0	+0	+0	+0	+15	+0	+0	+0	+0	+0	+0	+5	+0	+2
+Drakan's medallion
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Amulet of avarice
+Member icon.png
++10	+10	+10	+10	+10	+3	+3	+3	+3	+3	+6	+0	+0	+3
+Silver necklace (dusted)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Clown bow tie
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bonecrusher necklace
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+12

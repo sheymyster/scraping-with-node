@@ -1,0 +1,367 @@
+Iron 2h sword
+Free-to-play icon.png
+-4	+13	+10	-4	+0	+0	+0	+0	+0	-1	+14	+0	+0	+0
+Iron spear
+Member icon.png
++8	+8	+8	+0	+0	+1	+1	+0	+0	+0	+10	+0	+0	+0
+Steel spear
+Member icon.png
++12	+12	+12	+0	+0	+1	+1	+0	+0	+0	+12	+0	+0	+0
+Black 2h sword
+Free-to-play icon.png
+-4	+27	+21	-4	+0	+0	+0	+0	+0	-1	+26	+0	+0	+0
+Black spear
+Member icon.png
++15	+15	+15	+0	+0	+1	+1	+0	+0	+0	+16	+0	+0	+0
+Adamant 2h sword
+Free-to-play icon.png
+-4	+43	+30	-4	+0	+0	+0	+0	+0	-1	+44	+0	+0	+0
+Adamant claws
+Member icon.png
++18	+23	-4	+0	+0	+6	+12	+3	+0	+0	+24	+0	+0	+0
+Adamant halberd
+Member icon.png
++28	+41	+0	-4	+0	-1	+3	+4	+0	+0	+42	+0	+0	+0
+Adamant spear
+Member icon.png
++24	+24	+24	+0	+0	+1	+1	+0	+0	+0	+28	+0	+0	+0
+Anger spear
+Member icon.png
++2	+2	+2	+0	+0	+1	+1	+0	+0	+0	+0	+0	+0	+0
+Bronze 2h sword
+Free-to-play icon.png
+-4	+9	+8	-4	+0	+0	+0	+0	+0	-1	+10	+0	+0	+0
+Bronze claws
+Member icon.png
++3	+4	-4	+0	+0	+1	+2	+1	+0	+0	+5	+0	+0	+0
+Iron claws
+Member icon.png
++4	+6	-4	+0	+0	+2	+3	+1	+0	+0	+7	+0	+0	+0
+Iron halberd
+Member icon.png
++9	+12	+0	-4	+0	-1	+1	+2	+0	+0	+12	+0	+0	+0
+Mithril 2h sword
+Free-to-play icon.png
+-4	+30	+24	-4	+0	+0	+0	+0	+0	-1	+31	+0	+0	+0
+Mithril halberd
+Member icon.png
++22	+28	+0	-4	+0	-1	+2	+4	+0	+0	+29	+0	+0	+0
+Bronze spear
+Member icon.png
++5	+5	+5	+0	+0	+1	+1	+0	+0	+0	+6	+0	+0	+0
+Mithril spear
+Member icon.png
++17	+17	+17	+0	+0	+1	+1	+0	+0	+0	+18	+0	+0	+0
+Rune 2h sword
+Free-to-play icon.png
+-4	+69	+50	-4	+0	+0	+0	+0	+0	-1	+70	+0	+0	+0
+Rune claws
+Member icon.png
++26	+38	-4	+0	+0	+10	+19	+5	+0	+0	+39	+0	+0	+0
+Rune halberd
+Member icon.png
++48	+67	+0	-4	+0	-1	+4	+5	+0	+0	+68	+0	+0	+0
+Rune spear
+Member icon.png
++36	+36	+36	+0	+0	+1	+1	+0	+0	+0	+42	+0	+0	+0
+Steel 2h sword
+Free-to-play icon.png
+-4	+21	+16	-4	+0	+0	+0	+0	+0	-1	+22	+0	+0	+0
+Steel claws
+Member icon.png
++8	+11	-4	+0	+0	+3	+6	+2	+0	+0	+12	+0	+0	+0
+Steel halberd
+Member icon.png
++14	+19	+0	-4	+0	-1	+1	+2	+0	+0	+20	+0	+0	+0
+Barrelchest anchor
+Member icon.png
+-2	+10	+92	+0	+0	+0	+0	+0	+0	+0	+100	+0	+0	+0
+Bone spear
+Member icon.png
++11	+11	+11	+0	+0	+1	+1	+0	+0	+0	+13	+0	+0	+0
+Comp ogre bow
+Member icon.png
++0	+0	+0	+0	+38	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Crystal bow
+Member icon.png
++0	+0	+0	+0	+	+0	+0	+0	+0	+0	+0	+	+0	+0
+Dragon 2h sword
+Member icon.png
+-4	+92	+80	-4	+0	+0	+0	+0	+0	-1	+93	+0	+0	+0
+Gadderhammer
+Member icon.png
+-4	-4	+35	-4	+0	+0	+0	+0	+0	+0	+35	+0	+0	+0
+Granite maul
+Member icon.png
++0	+0	+81	+0	+0	+0	+0	+0	+0	+0	+79	+0	+0	+0
+Guthan's warspear
+Member icon.png
++75	+75	+75	+0	+0	+7	+7	+7	+0	+0	+75	+0	+0	+0
+Karil's crossbow
+Member icon.png
++0	+0	+0	+0	+84	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Magic shortbow
+Member icon.png
++0	+0	+0	+0	+69	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Maple longbow
+Free-to-play icon.png
++0	+0	+0	+0	+29	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Maple shortbow
+Free-to-play icon.png
++0	+0	+0	+0	+29	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Oak longbow
+Free-to-play icon.png
++0	+0	+0	+0	+14	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ogre bow
+Member icon.png
++0	+0	+0	+0	+38	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Saradomin mjolnir
+Member icon.png
++0	+0	+11	+0	+0	+0	+0	+0	+0	+0	+14	+0	+0	+0
+Seercull
+Member icon.png
++0	+0	+0	+0	+69	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Shadow sword
+Member icon.png
+-4	+27	+21	+4	+0	+0	+0	+0	+4	-1	+26	+0	+0	+0
+Shortbow
+Free-to-play icon.png
++0	+0	+0	+0	+8	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Spatula
+Member icon.png
+-4	+27	+21	-4	+0	+0	+0	+0	+0	-1	+22	+0	+0	+0
+Toktz-mej-tal
+Member icon.png
++15	-1	+55	+15	+0	+10	+15	+5	+15	+0	+55	+0	+0	+5
+Verac's flail
+Member icon.png
++68	-2	+82	+0	+0	+0	+0	+0	+0	+0	+72	+0	+0	+6
+Willow shortbow
+Free-to-play icon.png
++0	+0	+0	+0	+20	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragon halberd
+Member icon.png
++70	+95	+0	-4	+0	-1	+4	+5	+0	+0	+89	+0	+0	+0
+Black halberd
+Member icon.png
++19	+25	+0	-4	+0	-1	+2	+3	+0	+0	+20	+0	+0	+0
+White halberd
+Member icon.png
++19	+25	+0	-4	+0	-1	+2	+3	+0	+0	+20	+0	+0	+1
+White 2h sword
+Member icon.png
+-4	+27	+21	-4	+0	+0	+0	+0	+0	-1	+26	+0	+0	+1
+Dark bow
+Member icon.png
++0	+0	+0	+0	+95	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tzhaar-ket-om
+Member icon.png
++0	+0	+80	-4	+0	+0	+0	+0	+0	+0	+85	+0	+0	+0
+Dragon spear
+Member icon.png
++55	+55	+55	+0	+0	+5	+5	+5	+5	+5	+60	+0	+0	+0
+Pharaoh's sceptre
+Member icon.png
++7	-1	+25	+10	+0	+2	+3	+1	+10	+0	+32	+0	+0	+0
+Willow comp bow
+Free-to-play icon.png
++0	+0	+0	+0	+22	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Yew shortbow
+Member icon.png
++0	+0	+0	+0	+47	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Longbow
+Free-to-play icon.png
++0	+0	+0	+0	+8	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Oak shortbow
+Free-to-play icon.png
++0	+0	+0	+0	+14	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Magic longbow
+Member icon.png
++0	+0	+0	+0	+69	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Yew comp bow
+Member icon.png
++0	+0	+0	+0	+49	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Magic comp bow
+Member icon.png
++0	+0	+0	+0	+71	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Training bow
+Free-to-play icon.png
++0	+0	+0	+0	+8	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Willow longbow
+Free-to-play icon.png
++0	+0	+0	+0	+20	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Swamp lizard
+Member icon.png
++0	+10	+0	+0	+20	+0	+0	+0	+0	+0	+22	+0	+0	+0
+Leaf-bladed spear
+Member icon.png
++47	+42	+36	+0	+0	+1	+1	+0	+0	+0	+50	+0	+0	+0
+Yew longbow
+Member icon.png
++0	+0	+0	+0	+47	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Crystal halberd
+Member icon.png
++85	+110	+5	-4	+0	-1	+4	+5	+0	+0	+118	+0	+0	+0
+Torag's hammers
+Member icon.png
+-4	-4	+85	-4	+0	+0	+0	+0	+0	+0	+72	+0	+0	+0
+Black claws
+Member icon.png
++10	+14	-4	+0	+0	+4	+7	+2	+0	+0	+14	+0	+0	+0
+White claws
+Member icon.png
++10	+14	-4	+0	+0	+4	+7	+2	+0	+0	+14	+0	+0	+1
+Mithril claws
+Member icon.png
++11	+16	-4	+0	+0	+4	+8	+2	+0	+0	+17	+0	+0	+0
+Fixed device
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Cursed goblin bow
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dharok's greataxe
+Member icon.png
+-4	+103	+95	-4	+0	+0	+0	+0	+0	-1	+105	+0	+0	+0
+Armadyl godsword
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Bandos godsword
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Saradomin godsword
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Zamorakian spear
+Member icon.png
++85	+65	+65	+0	+0	+13	+13	+12	+0	+13	+75	+0	+0	+2
+Zamorak godsword
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Godsword	Unknown	+0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Guthix mjolnir
+Member icon.png
++0	+0	+11	+0	+0	+0	+0	+0	+0	+0	+14	+0	+0	+0
+Zamorak mjolnir
+Member icon.png
++0	+0	+11	+0	+0	+0	+0	+0	+0	+0	+14	+0	+0	+0
+Black salamander
+Member icon.png
++0	+59	+0	+0	+69	+0	+0	+0	+0	+0	+71	+0	+0	+0
+Red salamander
+Member icon.png
++0	+37	+0	+0	+47	+0	+0	+0	+0	+0	+49	+0	+0	+0
+Sled
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Signed oak bow
+Member icon.png
++0	+0	+0	+0	+14	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Crate with zanik
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Orange salamander
+Member icon.png
++0	+19	+0	+0	+29	+0	+0	+0	+0	+0	+31	+0	+0	+0
+Saradomin sword
+Member icon.png
++0	+82	+60	+0	+0	+0	+0	+0	+0	+0	+82	+0	+0	+2
+Katana
+Member icon.png
++7	+45	+0	+0	+0	+3	+7	+7	+0	-3	+40	+0	+0	+0
+3rd age bow
+Member icon.png
++0	+0	+0	+0	+80	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Event rpg
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Magic shortbow (i)
+Member icon.png
++0	+0	+0	+0	+75	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Saradomin's blessed sword
+Member icon.png
++0	+100	+60	+0	+0	+0	+0	+0	+0	+0	+88	+0	+0	+2
+Granite maul (or)
+Member icon.png
++0	+0	+81	+0	+0	+0	+0	+0	+0	+0	+79	+0	+0	+0
+Toxic blowpipe
+Member icon.png
++0	+0	+0	+0	+60	+0	+0	+0	+0	+0	+0	+	+0	+0
+Dragon claws
+Member icon.png
++41	+57	-4	+0	+0	+13	+26	+7	+0	+0	+56	+0	+0	+0
+Oddskull
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Abyssal bludgeon
+Member icon.png
++0	+0	+102	+0	+0	+0	+0	+0	+0	+0	+85	+0	+0	+0
+Heavy ballista
+Member icon.png
++0	+0	+0	+0	+125	+0	+0	+0	+0	+0	+0	+15	+0	+0
+Light ballista
+Member icon.png
++0	+0	+0	+0	+110	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gilded 2h sword
+Free-to-play icon.png
+-4	+69	+50	-4	+0	+0	+0	+0	+0	-1	+70	+0	+0	+0
+Gilded spear
+Member icon.png
++36	+36	+36	+0	+0	+1	+1	+0	+0	+0	+42	+0	+0	+0
+Nunchaku
+Member icon.png
+-4	-4	+11	-4	+0	+0	+0	+0	+0	+0	+14	+0	+0	+0
+Armadyl godsword (or)
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Bandos godsword (or)
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Saradomin godsword (or)
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Zamorak godsword (or)
+Member icon.png
++0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
+Large spade
+Member icon.png
+-100	-100	-50	+0	+0	+0	+0	+0	+0	+0	-10	+0	+0	+0
+Heavy casket
+Member icon.png
+-4	-4	+11	-4	+0	+0	+0	+0	+0	+0	+9	+0	+0	+0
+Spear (item)
+Free-to-play icon.png
++22	+18	+0	-4	+0	-1	+2	+4	+0	+0	+20	+0	+0	+0
+Elder maul
+Member icon.png
++0	+0	+135	-4	+0	+0	+0	+0	+0	+0	+147	+0	+0	+0
+Hill giant club
+Free-to-play icon.png
+-4	+50	+65	-4	+0	+0	+0	+0	+0	-1	+70	+0	+0	+0
+Giant present
+Free-to-play icon.png
+-100	-100	-50	+0	+0	+0	+0	+0	+0	+0	-10	+0	+0	+0
+Twisted bow
+Member icon.png
++0	+0	+0	+0	+70	+0	+0	+0	+0	+0	+0	+20	+0	+4
+Dinh's bulwark
+Member icon.png
++0	+0	+110	+0	+0	+141	+145	+145	+18	+148	+38	+0	+0	+0
+Scythe of vitur
+Member icon.png
++	+	+	-6	+0	-2	+	+	+0	+0	+	+0	+0	+0
+Starter bow
+Member icon.png
++0	+0	+0	+0	+20	+0	+0	+0	+0	+0	+0	+7	+0	+0
+Craw's bow
+Member icon.png
++0	+0	+0	+0	+75	+0	+0	+0	+0	+0	+0	+	+0	+0
+Vesta's spear
+Member icon.png
++133	+113	+120	+0	+0	+18	+21	+21	+0	+0	+122	+0	+0	+0
+Crystal bow (i)
+Member icon.png
++0	+0	+0	+0	+100	+0	+0	+0	+0	+0	+0	+70	+0	+0
+Crystal halberd (i)
+Member icon.png
++85	+110	+5	-4	+0	-1	+4	+5	+0	+0	+118	+0	+0	+0

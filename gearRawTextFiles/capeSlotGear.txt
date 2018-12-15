@@ -1,0 +1,526 @@
+Agility cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Attack cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Ava's accumulator
+Member icon.png
++0	+0	+0	+0	+4	+0	+1	+0	+4	+0	+0	+0	+0	+0
+Ava's attractor
+Member icon.png
++0	+0	+0	+0	+2	+0	+0	+0	+2	+0	+0	+0	+0	+0
+Bonesack
+Member icon.png
++0	+0	+0	+0	+0	+4	+4	+4	+4	+4	+0	+0	+0	+0
+Cape of Accomplishment	Unknown	+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+0 (+4 trimmed)
+Cape of legends
+Member icon.png
++0	+0	+0	+0	+0	+7	+7	+7	+7	+7	+0	+0	+0	+0
+Hitpoints cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Construct. cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Cooking cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Defence cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Diving apparatus
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Farming cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Fire cape
+Member icon.png
++1	+1	+1	+1	+1	+11	+11	+11	+11	+11	+4	+0	+0	+2
+Firemaking cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Fishing cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Fletching cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Ghostly cloak
+Member icon.png
++0	+0	+0	+5	+0	+0	+0	+0	+5	+0	+0	+0	+0	+0
+Mining cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Moonclan cape
+Member icon.png
++0	+0	+0	+2	-2	+0	+1	+1	+2	-2	+0	+0	+0	+0
+Prayer cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Saradomin cloak
+Member icon.png
++0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
+Slayer cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Smithing cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Spotted cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Spottier cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Thieving cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Obsidian cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+0
+Quest point cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Strength cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Ranging cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Magic cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Runecraft cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Herblore cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Crafting cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Woodcutting cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Hunter cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Saradomin cape
+Member icon.png
++0	+0	+0	+10	+0	+1	+1	+2	+10	+0	+0	+0	+0	+0
+Ham cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+2	+0	+1	+0	+0	+0	+0
+Blue cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Zamorak cape
+Member icon.png
++0	+0	+0	+10	+0	+1	+1	+2	+10	+0	+0	+0	+0	+0
+Zamorak cloak
+Member icon.png
++0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
+Guthix cape
+Member icon.png
++0	+0	+0	+10	+0	+1	+1	+2	+10	+0	+0	+0	+0	+0
+Graceful cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Guthix cloak
+Member icon.png
++0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
+Lunar cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Mourner cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Eagle cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Decorative armour (quiver)
+Member icon.png
++0	+0	+0	+0	+0	+4	+4	+4	+4	+4	+0	+0	+0	+0
+Castlewars cloak (Saradomin)
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Castlewars cloak (Zamorak)
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Black cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Explorer backpack
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bandos cloak
+Member icon.png
++0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
+Ancient cloak
+Member icon.png
++0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
+Armadyl cloak
+Member icon.png
++0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
+Team-6 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-16 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-26 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-36 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-46 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-10 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-20 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-30 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-40 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-50 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-1 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-11 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-21 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-31 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-41 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Ardougne cloak 1
+Member icon.png
++2	+0	+0	+2	+0	+2	+0	+0	+2	+0	+0	+0	+0	+2
+Ardougne cloak 2
+Member icon.png
++4	+0	+0	+4	+0	+4	+0	+0	+4	+0	+0	+0	+0	+4
+Ardougne cloak 3
+Member icon.png
++5	+0	+0	+5	+0	+5	+0	+0	+5	+0	+0	+0	+0	+5
+Ardougne cloak 4
+Member icon.png
++6	+0	+0	+6	+0	+6	+0	+0	+6	+0	+0	+0	+0	+6
+Achievement diary cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+3rd age cloak
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+5
+Music cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
+Max cape
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+4
+Fremennik brown cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik blue cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik green cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik red cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik grey cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik yellow cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik teal cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik purple cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik pink cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik black cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fremennik cyan cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Red cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Yellow cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Green cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Purple cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Orange cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Pink cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Deadman's cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Fire max cape
+Member icon.png
++1	+1	+1	+1	+1	+11	+11	+11	+11	+11	+4	+0	+0	+2
+Accumulator max cape
+Member icon.png
++0	+0	+0	+0	+4	+0	+1	+0	+4	+0	+0	+0	+0	+0
+Zamorak max cape
+Member icon.png
++0	+0	+0	+10	+0	+1	+1	+2	+10	+0	+0	+0	+0	+0
+Saradomin max cape
+Member icon.png
++0	+0	+0	+10	+0	+1	+1	+2	+10	+0	+0	+0	+0	+0
+Guthix max cape
+Member icon.png
++0	+0	+0	+10	+0	+1	+1	+2	+10	+0	+0	+0	+0	+0
+Team-43 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Healer icon
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Defender icon
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Collector icon
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Attacker icon
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Cabbage cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Monkey (Monkey Madness II)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Clue hunter cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Obsidian cape (r)
+Member icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+0
+Team cape i
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team cape zero
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team cape x
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-9 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-19 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-29 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-39 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-49 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-8 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-48 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-2 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-3 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-4 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-5 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-7 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-12 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-13 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-14 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-15 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-17 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-18 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-23 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-24 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-25 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-32 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-33 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-34 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-35 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-37 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-38 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-44 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-45 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-47 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-22 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-27 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-28 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Team-42 cape
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
+Ardougne max cape
+Member icon.png
++6	+0	+0	+6	+0	+6	+0	+0	+6	+0	+0	+0	+0	+6
+Sack of presents
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Infernal cape
+Member icon.png
++4	+4	+4	+1	+1	+12	+12	+12	+12	+12	+8	+0	+0	+2
+Infernal max cape
+Member icon.png
++4	+4	+4	+1	+1	+12	+12	+12	+12	+12	+8	+0	+0	+2
+Champion's cape
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Imbued saradomin max cape
+Member icon.png
++0	+0	+0	+15	+0	+3	+3	+3	+15	+0	+0	+0	+2	+0
+Imbued guthix max cape
+Member icon.png
++0	+0	+0	+15	+0	+3	+3	+3	+15	+0	+0	+0	+2	+0
+Imbued zamorak max cape
+Member icon.png
++0	+0	+0	+15	+0	+3	+3	+3	+15	+0	+0	+0	+2	+0
+Imbued saradomin cape
+Member icon.png
++0	+0	+0	+15	+0	+3	+3	+3	+15	+0	+0	+0	+2	+0
+Imbued guthix cape
+Member icon.png
++0	+0	+0	+15	+0	+3	+3	+3	+15	+0	+0	+0	+2	+0
+Imbued zamorak cape
+Member icon.png
++0	+0	+0	+15	+0	+3	+3	+3	+15	+0	+0	+0	+2	+0
+Mythical cape
+Member icon.png
++0	+0	+6	+0	+0	+8	+8	+8	+8	+8	+1	+0	+0	+1
+Snow imp costume tail
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ava's assembler
+Member icon.png
++0	+0	+0	+0	+8	+1	+1	+1	+8	+2	+0	+2	+0	+0
+Assembler max cape
+Member icon.png
++0	+0	+0	+0	+8	+1	+1	+1	+8	+2	+0	+2	+0	+0
+Xeric's guard
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Xeric's warrior
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Xeric's sentinel
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Xeric's general
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Xeric's champion
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sinhaza shroud tier 1
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sinhaza shroud tier 2
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sinhaza shroud tier 4
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sinhaza shroud tier 3
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Sinhaza shroud tier 5
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Grain (Recruitment Drive)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Scroll sack
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Hooded cloak
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0

@@ -1,0 +1,804 @@
+Bronze platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+15	+14	+9	-6	+14	+0	+0	+0	+0
+Iron chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+10	+15	+19	-3	+12	+0	+0	+0	+0
+Iron platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Dragon chainbody
+Member icon.png
++0	+0	+0	-15	+0	+81	+93	+98	-3	+82	+0	+0	+0	+0
+Steel chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+17	+25	+30	-3	+19	+0	+0	+0	+0
+Black chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+22	+32	+39	-3	+24	+0	+0	+0	+0
+Adamant chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+36	+50	+61	-3	+38	+0	+0	+0	+0
+Adamant platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+65	+63	+55	-6	+63	+0	+0	+0	+0
+Adamant platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+65	+63	+55	-6	+63	+0	+0	+0	+0
+Adamant platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+65	+63	+55	-6	+63	+0	+0	+0	+0
+Bronze chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+7	+11	+13	-3	+9	+0	+0	+0	+0
+Mithril chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+25	+35	+42	-3	+27	+0	+0	+0	+0
+Mithril platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+46	+44	+38	-6	+44	+0	+0	+0	+0
+Rune chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+63	+72	+78	-3	+65	+0	+0	+0	+0
+Rune platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+0
+Rune platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+0
+Rune platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+0
+Steel platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+32	+31	+24	-6	+31	+0	+0	+0	+0
+Blue d'hide body
+Member icon.png
++0	+0	+0	-15	+20	+45	+37	+50	+30	+45	+0	+0	+0	+0
+Bomber jacket
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Brown apron
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Builder's shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Camo top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Carnillean armour
+Member icon.png
++0	+0	+0	+0	+0	+20	+14	+8	+0	+0	+0	+0	+0	+0
+Desert camo top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Desert shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dharok's platebody
+Member icon.png
++0	+0	+0	-30	-10	+122	+120	+107	-6	+132	+0	+0	+0	+0
+Doctors' gown
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Enchanted top
+Member icon.png
++0	+0	+0	+20	+0	+0	+0	+0	+20	+0	+0	+0	+0	+0
+Fighter torso
+Member icon.png
++0	+0	+0	-40	+0	+62	+85	+62	-10	+67	+4	+0	+0	+0
+Frog-leather body
+Member icon.png
++0	+0	+0	-5	+10	+23	+26	+30	+15	+32	+0	+0	+0	+0
+Gilded platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+0
+Graahk top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Granite body
+Member icon.png
++0	+0	+0	-22	-5	+87	+84	+79	-6	+97	+0	+0	+0	+0
+Green d'hide body
+Free-to-play icon.png
++0	+0	+0	-15	+15	+40	+32	+45	+20	+40	+0	+0	+0	+0
+Guthan's platebody
+Member icon.png
++0	+0	+0	-30	-10	+122	+120	+107	-6	+132	+0	+0	+0	+0
+Ham shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Infinity top
+Member icon.png
++0	+0	+0	+22	+0	+0	+0	+0	+22	+0	+0	+0	+0	+0
+Initiate hauberk
+Member icon.png
++0	+0	+0	-30	-10	+46	+44	+38	-6	+44	+0	+0	+0	+6
+Jungle camo top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Kyatt top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Larupia top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Leather body
+Free-to-play icon.png
++0	+0	+0	-2	+2	+8	+9	+10	+4	+9	+0	+0	+0	+0
+Mime top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Moonclan armour
+Member icon.png
++0	+0	+0	+5	-10	+5	+5	+5	+5	-10	+0	+0	+0	+0
+Polar camo top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Prince tunic
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Proselyte hauberk
+Member icon.png
++0	+0	+0	-30	-10	+65	+63	+55	-6	+63	+0	+0	+0	+8
+Red d'hide body
+Member icon.png
++0	+0	+0	-15	+25	+50	+42	+55	+40	+50	+0	+0	+0	+0
+Rock-shell plate
+Member icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+0
+Saradomin d'hide
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+1
+Saradomin platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+1
+Shade robe top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+5
+Skeleton shirt
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Slave shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Snakeskin body
+Member icon.png
++0	+0	+0	-5	+12	+25	+28	+32	+15	+35	+0	+0	+0	+0
+Spined body
+Member icon.png
++0	+0	+0	-15	+15	+40	+32	+45	+20	+40	+0	+0	+0	+0
+Void knight top
+Member icon.png
++0	+0	+0	+0	+0	+45	+45	+45	+45	+45	+0	+0	+0	+0
+White chainbody
+Member icon.png
++0	+0	+0	-15	+0	+22	+32	+39	-3	+24	+0	+0	+0	+1
+Blue wizard robe
+Free-to-play icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Zamorak platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+1
+Zombie shirt
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Plague jacket
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Yak-hide armour (top)
+Member icon.png
++0	+0	+0	-5	+0	+25	+20	+15	-2	+25	+0	+0	+0	+0
+White apron
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ghostly robe (top)
+Member icon.png
++0	+0	+0	+5	+0	+0	+0	+0	+5	+0	+0	+0	+0	+0
+Guthix platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+1
+White platebody
+Member icon.png
++0	+0	+0	-30	-10	+41	+40	+30	-6	+40	+0	+0	+0	+1
+Black platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+41	+40	+30	-6	+40	+0	+0	+0	+0
+Studded body
+Free-to-play icon.png
++0	+0	+0	-4	+8	+18	+25	+22	+8	+25	+0	+0	+0	+0
+Black d'hide body
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+0
+Monk's robe top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+6
+Priest gown (top)
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+3
+Khazard armour
+Member icon.png
++0	+0	+0	+0	+0	+9	+11	+10	+0	+0	+0	+0	+0	+0
+Splitbark body
+Member icon.png
++0	+0	+0	+10	-10	+36	+26	+42	+15	+0	+0	+0	+0	+0
+Lunar torso
+Member icon.png
++0	+0	+0	+10	-10	+34	+22	+40	+12	+0	+0	+0	+0	+0
+Hardleather body
+Free-to-play icon.png
++0	+0	+0	-4	+8	+12	+15	+18	+6	+15	+0	+0	+0	+0
+Dragon platebody
+Member icon.png
++0	+0	+0	-30	-10	+109	+107	+97	-6	+106	+0	+0	+0	+0
+Black robe
+Free-to-play icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Torag's platebody
+Member icon.png
++0	+0	+0	-30	-10	+122	+120	+107	-6	+132	+0	+0	+0	+0
+Verac's brassard
+Member icon.png
++0	+0	+0	-6	-2	+81	+95	+85	+0	+81	+0	+0	+0	+5
+Lederhosen top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Princess blouse
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ahrim's robetop
+Member icon.png
++0	+0	+0	+30	-10	+52	+37	+63	+30	+0	+0	+0	+0	+0
+Skeletal top
+Member icon.png
++0	+0	+0	+8	-10	+35	+25	+42	+15	+0	+0	+0	+0	+0
+Robe of elidinis (top)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Zamorak monk top
+Free-to-play icon.png
++0	+0	+0	+2	+0	+0	+0	+0	+3	+0	+0	+0	+0	+3
+Bandos chestplate
+Member icon.png
++0	+0	+0	-15	-10	+98	+93	+105	-6	+133	+4	+0	+0	+1
+Armadyl chestplate
+Member icon.png
+-7	-7	-7	-15	+33	+56	+48	+61	+70	+57	+0	+0	+0	+1
+Chicken wings
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Vyrewatch top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Citizen top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Silly jester top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+5	-5	+0	+0	+0	+0
+Karil's leathertop
+Member icon.png
++0	+0	+0	-15	+30	+47	+42	+50	+65	+57	+0	+0	+0	+0
+Graceful top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Rogue top
+Member icon.png
++0	+0	+0	+0	+0	+10	+10	+10	+10	+10	+0	+0	+0	+0
+Zamorak d'hide
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+1
+Guthix dragonhide
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+1
+Zamorak robe top
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+6
+Guthix robe top
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+6
+Saradomin robe top
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+6
+Druid's robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+4
+Mourner top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Mystic robe top (dark)
+Member icon.png
++0	+0	+0	+20	+0	+0	+0	+0	+20	+0	+0	+0	+0	+0
+Decorative armour (gold platebody)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+65	+63	+55	-6	+63	+0	+0	+0	+0
+Decorative armour (white platebody)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+46	+44	+38	-6	+44	+0	+0	+0	+0
+Decorative armour (red platebody)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+32	+31	+24	-6	+31	+0	+0	+0	+0
+Decorative armour (magic top)
+Member icon.png
++0	+0	+0	+0	+0	+20	+20	+20	+20	+20	+0	+0	+0	+0
+Decorative armour (ranged top)
+Member icon.png
++0	+0	+0	+0	+0	+20	+20	+20	+20	+20	+0	+0	+0	+0
+Lumberjack top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Blue wizard robe (t)
+Free-to-play icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Black platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+41	+40	+30	-6	+40	+0	+0	+0	+0
+Mystic robe top (light)
+Member icon.png
++0	+0	+0	+20	+0	+0	+0	+0	+20	+0	+0	+0	+0	+0
+Blue d'hide body (g)
+Member icon.png
++0	+0	+0	-15	+20	+45	+37	+50	+30	+45	+0	+0	+0	+0
+Wood camo top
+Member icon.png
++0	+0	+0	+0	+0	+10	+15	+19	+0	+12	+0	+0	+0	+0
+Bob's black shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bob's purple shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bob's blue shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bob's red shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bob's green shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Blue d'hide body (t)
+Member icon.png
++0	+0	+0	-15	+20	+45	+37	+50	+30	+45	+0	+0	+0	+0
+Green d'hide body (g)
+Free-to-play icon.png
++0	+0	+0	-15	+15	+40	+32	+45	+20	+40	+0	+0	+0	+0
+Green d'hide body (t)
+Free-to-play icon.png
++0	+0	+0	-15	+15	+40	+32	+45	+20	+40	+0	+0	+0	+0
+Studded body (g)
+Free-to-play icon.png
++0	+0	+0	-4	+8	+18	+25	+22	+8	+25	+0	+0	+0	+0
+Studded body (t)
+Free-to-play icon.png
++0	+0	+0	-4	+8	+18	+25	+22	+8	+25	+0	+0	+0	+0
+Desert top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Desert top (overcoat)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Mystic robe top (blue)
+Member icon.png
++0	+0	+0	+20	+0	+0	+0	+0	+20	+0	+0	+0	+0	+0
+Prospector jacket
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black desert shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+41	+40	+30	-6	+40	+0	+0	+0	+0
+Tribal top (brown)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tribal top (pink)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tribal top (yellow)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tribal top (blue)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bandos platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+1
+Armadyl platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+1
+Ancient platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+82	+80	+72	-6	+80	+0	+0	+0	+1
+Mithril platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+46	+44	+38	-6	+44	+0	+0	+0	+0
+Iron platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Iron platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Musketeer tabard
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black wizard robe (g)
+Free-to-play icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Black wizard robe (t)
+Free-to-play icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Royal gown top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Blue wizard robe (g)
+Free-to-play icon.png
++0	+0	+0	+3	+0	+0	+0	+0	+3	+0	+0	+0	+0	+0
+Red d'hide body (g)
+Member icon.png
++0	+0	+0	-15	+25	+50	+42	+55	+40	+50	+0	+0	+0	+0
+Armadyl robe top
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+6
+Bandos robe top
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+6
+Ancient d'hide
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+1
+Armadyl d'hide
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+1
+Bandos d'hide
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+1
+Bronze platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+15	+14	+9	-6	+14	+0	+0	+0	+0
+Black d'hide body (t)
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+0
+Ancient robe top
+Member icon.png
++0	+0	+0	+4	+0	+0	+0	+0	+4	+0	+0	+0	+0	+6
+Bronze platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+15	+14	+9	-6	+14	+0	+0	+0	+0
+Mithril platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+46	+44	+38	-6	+44	+0	+0	+0	+0
+Stripy pirate shirt (beige)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Stripy pirate shirt (red)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Stripy pirate shirt (blue)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Stripy pirate shirt (brown)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragon chainbody (g)
+Member icon.png
++0	+0	+0	-15	+0	+81	+93	+98	-3	+82	+0	+0	+0	+0
+Light infinity top
+Member icon.png
++0	+0	+0	+22	+0	+0	+0	+0	+22	+0	+0	+0	+0	+0
+Rangers' tunic
+Member icon.png
++0	+0	+0	-15	+15	+6	+9	+12	+6	+6	+0	+0	+0	+0
+Dark infinity top
+Member icon.png
++0	+0	+0	+22	+0	+0	+0	+0	+22	+0	+0	+0	+0	+0
+Black d'hide body (g)
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+50	+55	+0	+0	+0	+0
+Red d'hide body (t)
+Member icon.png
++0	+0	+0	-15	+25	+50	+42	+55	+40	+50	+0	+0	+0	+0
+White elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Blue elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Blue elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Green elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Green elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Purple elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Purple elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Red elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Red elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gold elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gold elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pink elegant blouse
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pink elegant shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fremennik robe
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Ultimate ironman platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Ironman platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Santa jacket
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Antisanta jacket
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Cow top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Varrock armour 1
+Member icon.png
++0	+0	+0	-30	-10	+32	+31	+24	-6	+31	+0	+0	+0	+0
+Varrock armour 2
+Member icon.png
++0	+0	+0	-30	-10	+41	+40	+30	-6	+40	+0	+0	+0	+0
+Varrock armour 3
+Member icon.png
++0	+0	+0	-30	-10	+46	+44	+38	-6	+44	+0	+0	+0	+0
+Varrock armour 4
+Member icon.png
++0	+0	+0	-30	-10	+65	+63	+55	-6	+63	+0	+0	+0	+0
+Elite void top
+Member icon.png
++0	+0	+0	+0	+0	+45	+45	+45	+45	+45	+0	+0	+0	+3
+3rd age platebody
+Member icon.png
++0	+0	+0	-20	+0	+96	+108	+113	-4	+97	+0	+0	+0	+0
+3rd age robe top
+Member icon.png
++0	+0	+0	+24	+0	+0	+0	+0	+24	+0	+0	+0	+0	+0
+3rd age range top
+Member icon.png
++0	+0	+0	-15	+30	+55	+47	+60	+60	+55	+0	+0	+0	+0
+Woven top (blue)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Shirt (lilac)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Angler top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Green robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Menaphite red top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Menaphite purple top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Blue robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Cream robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Pink robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Turquoise robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Grey robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Red robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Yellow robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Teal robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Purple robe top
+Member icon.png
++0	+0	+0	+0	+0	+0	+2	+2	+0	+0	+0	+0	+0	+0
+Fremennik beige shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fremennik grey shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fremennik brown shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fremennik red shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Fremennik blue shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Gravedigger top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Deadman's chest
+Member icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Xerician top
+Member icon.png
++0	+0	+0	+12	+0	+0	+0	+0	+10	+0	+0	+0	+0	+0
+Shayzien platebody (1)
+Member icon.png
++0	+0	+0	-5	+0	+16	+20	+22	-2	+16	+0	+0	+0	+0
+Shayzien platebody (2)
+Member icon.png
++0	+0	+0	-7	+0	+20	+25	+30	-3	+20	+0	+0	+0	+0
+Shayzien platebody (3)
+Member icon.png
++0	+0	+0	-8	+0	+25	+32	+35	-3	+22	+0	+0	+0	+0
+Shayzien platebody (4)
+Member icon.png
++0	+0	+0	-9	+0	+28	+35	+37	-4	+25	+0	+0	+0	+0
+Shayzien platebody (5)
+Member icon.png
++0	+0	+0	-10	+0	+30	+37	+40	-4	+27	+0	+0	+0	+0
+Blue naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Green naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Brown naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Red naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Black naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Purple naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Grey naval shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Farmer's jacket
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Farmer's shirt
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Bunny top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Clue hunter garb
+Member icon.png
++0	+0	+0	-2	+2	+8	+9	+10	+4	+9	+0	+0	+0	+0
+Samurai shirt
+Member icon.png
++0	+0	+0	+0	+0	+69	+67	+59	+10	+67	+0	+0	+0	+0
+Mummy's body
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ankou top
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Robe top of darkness
+Member icon.png
++0	+0	+0	+20	+0	+0	+0	+0	+20	+0	+0	+0	+0	+0
+Monk's robe top (g)
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+6
+Crier coat
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Golden apron
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Steel platebody (t)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+32	+31	+24	-6	+31	+0	+0	+0	+0
+Steel platebody (g)
+Free-to-play icon.png
++0	+0	+0	-30	-10	+32	+31	+24	-6	+31	+0	+0	+0	+0
+Gilded chainbody
+Free-to-play icon.png
++0	+0	+0	-15	+0	+63	+72	+78	-3	+65	+0	+0	+0	+0
+Light tuxedo jacket
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dark tuxedo jacket
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Elder chaos top
+Member icon.png
++0	+0	+0	+10	+0	+0	+0	+0	+8	+0	+0	+0	+0	+0
+Evil chicken wings
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Pyromancer garb
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Banshee top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Hardcore ironman platebody
+Free-to-play icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Corrupted platebody
+Member icon.png
++0	+0	+0	-30	-10	+21	+20	+12	-6	+20	+0	+0	+0	+0
+Ancestral robe top
+Member icon.png
++0	+0	+0	+35	-8	+42	+31	+51	+28	+0	+0	+0	+2	+0
+Shirt (brown)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Obsidian platebody
+Member icon.png
++0	+0	+0	+0	+0	+55	+78	+56	-15	+60	+3	+0	+0	+0
+Woven top (brown)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Snow imp costume body
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Woven top (yellow)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Shirt (yellow)
+Member icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Dragon platebody (g)
+Member icon.png
++0	+0	+0	-30	-10	+109	+107	+97	-6	+106	+0	+0	+0	+0
+Justiciar chestguard
+Member icon.png
++0	+0	+0	-40	-20	+132	+130	+117	-16	+142	+0	+0	+0	+4
+Eggshell platebody
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Vesta's chainbody
+Member icon.png
++5	+7	+7	-15	+0	+120	+131	+145	-3	+140	+6	+0	+0	+0
+Statius's platebody
+Member icon.png
++5	+5	+7	-30	-10	+154	+145	+121	-6	+157	+5	+0	+0	+0
+Morrigan's leather body
+Member icon.png
++0	+0	+0	-15	+36	+61	+53	+66	+75	+62	+0	+0	+0	+0
+Zuriel's robe top
+Member icon.png
++0	+0	+0	+35	-10	+63	+45	+74	+35	+0	+0	+0	+0	+0
+Clown gown
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Tree top
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
