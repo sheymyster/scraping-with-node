@@ -1,9 +1,3 @@
-Agility cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Attack cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Ava's accumulator
 Member icon.png
 +0	+0	+0	+0	+4	+0	+1	+0	+4	+0	+0	+0	+0	+0
@@ -13,98 +7,37 @@ Member icon.png
 Bonesack
 Member icon.png
 +0	+0	+0	+0	+0	+4	+4	+4	+4	+4	+0	+0	+0	+0
-Cape of Accomplishment	Unknown	+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+0 (+4 trimmed)
+Skillcape Trimmed
+Members icon.png
++0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+4
 Cape of legends
 Member icon.png
 +0	+0	+0	+0	+0	+7	+7	+7	+7	+7	+0	+0	+0	+0
-Hitpoints cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Construct. cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Cooking cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Defence cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Diving apparatus
 Member icon.png
 +0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Farming cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Fire cape
 Member icon.png
 +1	+1	+1	+1	+1	+11	+11	+11	+11	+11	+4	+0	+0	+2
-Firemaking cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Fishing cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Fletching cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Ghostly cloak
 Member icon.png
 +0	+0	+0	+5	+0	+0	+0	+0	+5	+0	+0	+0	+0	+0
-Mining cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Moonclan cape
 Member icon.png
 +0	+0	+0	+2	-2	+0	+1	+1	+2	-2	+0	+0	+0	+0
-Prayer cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Saradomin cloak
 Member icon.png
 +0	+0	+0	+1	+0	+3	+3	+3	+3	+3	+0	+0	+0	+3
-Slayer cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Smithing cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Spotted cape
 Member icon.png
 +0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
 Spottier cape
 Member icon.png
 +0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Thieving cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Obsidian cape
 Member icon.png
 +0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+0
 Quest point cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Strength cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Ranging cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Magic cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Runecraft cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Herblore cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Crafting cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Woodcutting cape
-Member icon.png
-+0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
-Hunter cape
 Member icon.png
 +0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+
 Saradomin cape
@@ -329,115 +262,7 @@ Member icon.png
 Obsidian cape (r)
 Member icon.png
 +0	+0	+0	+0	+0	+9	+9	+9	+9	+9	+0	+0	+0	+0
-Team cape i
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team cape zero
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team cape x
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-9 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-19 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-29 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-39 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-49 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-8 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-48 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-2 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-3 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-4 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-5 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-7 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-12 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-13 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-14 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-15 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-17 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-18 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-23 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-24 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-25 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-32 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-33 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-34 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-35 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-37 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-38 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-44 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-45 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-47 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-22 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-27 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-28 cape
-Free-to-play icon.png
-+0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
-Team-42 cape
+Team cape
 Free-to-play icon.png
 +0	+0	+0	+0	+0	+0	+1	+1	+0	+2	+0	+0	+0	+0
 Ardougne max cape

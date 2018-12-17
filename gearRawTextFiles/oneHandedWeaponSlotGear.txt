@@ -13,7 +13,9 @@ Free-to-play icon.png
 Iron battleaxe
 Free-to-play icon.png
 -2	+8	+5	+0	+0	+0	+0	+0	+0	-1	+13	+0	+0	+0
-Iron dagger	Unknown	+5	+3	-4	+1	+0	+0	+0	+0	+1	+0	+4	+0	+0	+0
+Iron dagger
+Free-to-play icon.png
++5	+3	-4	+1	+0	+0	+0	+0	+1	+0	+4	+0	+0	+0
 Iron scimitar
 Free-to-play icon.png
 +2	+10	-2	+0	+0	+0	+1	+0	+0	+0	+9	+0	+0	+0
@@ -74,7 +76,9 @@ Free-to-play icon.png
 Black battleaxe
 Free-to-play icon.png
 -2	+20	+15	+0	+0	+0	+0	+0	+0	-1	+24	+0	+0	+0
-Black dagger	Unknown	+10	+5	-4	+1	+0	+0	+0	+0	+1	+0	+7	+0	+0	+0
+Black dagger
+Free-to-play icon.png
++10	+5	-4	+1	+0	+0	+0	+0	+1	+0	+7	+0	+0	+0
 Black longsword
 Free-to-play icon.png
 +13	+18	-2	+0	+0	+0	+3	+2	+0	+0	+16	+0	+0	+0
@@ -96,7 +100,9 @@ Free-to-play icon.png
 Adamant crossbow
 Member icon.png
 +0	+0	+0	+0	+78	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Adamant dagger	Unknown	+15	+8	-4	+1	+0	+0	+0	+0	+1	+0	+14	+0	+0	+0
+Adamant dagger
+Free-to-play icon.png
++15	+8	-4	+1	+0	+0	+0	+0	+1	+0	+14	+0	+0	+0
 Adamant dart
 Member icon.png
 +0	+0	+0	+0	+11	+0	+0	+0	+0	+0	+0	+10	+0	+0
@@ -157,7 +163,9 @@ Free-to-play icon.png
 Bronze battleaxe
 Free-to-play icon.png
 -2	+6	+3	+0	+0	+0	+0	+0	+0	-1	+9	+0	+0	+0
-Bronze dagger	Unknown	+4	+2	-4	+1	+0	+0	+0	+0	+1	+0	+3	+0	+0	+0
+Bronze dagger
+Free-to-play icon.png
++4	+2	-4	+1	+0	+0	+0	+0	+1	+0	+3	+0	+0	+0
 Bronze dart
 Member icon.png
 +0	+0	+0	+0	+3	+0	+0	+0	+0	+0	+0	+1	+0	+0
@@ -197,7 +205,9 @@ Free-to-play icon.png
 Mithril battleaxe
 Free-to-play icon.png
 -2	+22	+17	+0	+0	+0	+0	+0	+0	-1	+29	+0	+0	+0
-Mithril dagger	Unknown	+11	+5	-4	+1	+0	+0	+0	+0	+1	+0	+10	+0	+0	+0
+Mithril dagger
+Free-to-play icon.png
++11	+5	-4	+1	+0	+0	+0	+0	+1	+0	+10	+0	+0	+0
 Mithril hasta
 Member icon.png
 +17	+17	+17	+0	+0	-5	-5	-4	+0	-5	+18	+0	+0	+0
@@ -255,7 +265,9 @@ Free-to-play icon.png
 Rune sword
 Free-to-play icon.png
 +38	+26	-2	+0	+0	+0	+2	+1	+0	+0	+39	+0	+0	+0
-Steel dagger	Unknown	+8	+4	-4	+1	+0	+0	+0	+0	+1	+0	+7	+0	+0	+0
+Steel dagger
+Free-to-play icon.png
++8	+4	-4	+1	+0	+0	+0	+0	+1	+0	+7	+0	+0	+0
 Steel scimitar
 Free-to-play icon.png
 +3	+15	-2	+0	+0	+0	+1	+0	+0	+0	+14	+0	+0	+0
@@ -466,7 +478,9 @@ Free-to-play icon.png
 Dragon longsword
 Member icon.png
 +58	+69	-2	+0	+0	+0	+3	+2	+0	+0	+71	+0	+0	+0
-Rune dagger	Unknown	+25	+12	-4	+1	+0	+0	+0	+0	+1	+0	+24	+0	+0	+0
+Rune dagger
+Free-to-play icon.png
++25	+12	-4	+1	+0	+0	+0	+0	+1	+0	+24	+0	+0	+0
 Silver sickle
 Member icon.png
 +0	+0	+0	+0	+0	+0	+1	+1	+1	+1	+1	+0	+0	+0
@@ -512,7 +526,9 @@ Member icon.png
 Mith crossbow
 Member icon.png
 +0	+0	+0	+0	+66	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Silverlight	Unknown	+9	+14	-2	+0	+0	+0	+3	+2	+1	+0	+12	+0	+0	+0
+Silverlight
+Free-to-play icon.png
++9	+14	-2	+0	+0	+0	+3	+2	+1	+0	+12	+0	+0	+0
 Magic secateurs
 Member icon.png
 +7	+9	-5	+1	+0	+0	+1	+0	+1	+0	+1	+0	+0	+0

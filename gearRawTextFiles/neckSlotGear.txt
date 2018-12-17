@@ -64,7 +64,9 @@ Free-to-play icon.png
 Games necklace
 Member icon.png
 +0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Ghostspeak amulet	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
+Ghostspeak amulet
+Free-to-play icon.png
++0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
 Gnome amulet
 Member icon.png
 +0	+0	+0	+0	+0	+13	+13	+13	+0	+0	+0	+0	+0	+0

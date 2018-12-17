@@ -157,17 +157,7 @@ Member icon.png
 Prospector boots
 Member icon.png
 +0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Villager sandals	Unknown	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Villager sandals (blue)
-Member icon.png
-+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Villager sandals (yellow)
-Member icon.png
-+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Villager sandals (pink)
-Member icon.png
-+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
-Villager sandals (brown)
+Villager sandals
 Member icon.png
 +0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0	+0
 Gilded boots

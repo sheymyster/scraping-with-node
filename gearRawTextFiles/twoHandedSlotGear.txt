@@ -238,7 +238,6 @@ Member icon.png
 Zamorak godsword
 Member icon.png
 +0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
-Godsword	Unknown	+0	+132	+80	+0	+0	+0	+0	+0	+0	+0	+132	+0	+0	+8
 Guthix mjolnir
 Member icon.png
 +0	+0	+11	+0	+0	+0	+0	+0	+0	+0	+14	+0	+0	+0
