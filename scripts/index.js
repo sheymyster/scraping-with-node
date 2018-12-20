@@ -1,12 +1,12 @@
 const request = require('request');
 const fs = require('fs');
 
-const dataExample = require('./data');
-const pets = require('./pets');
-const tertiaryDrops = require('./tertiaryDrops');
-const listOfMonsters = require('./monsterList');
+const dataExample = require('../RAW/data');
+const pets = require('../RAW/pets');
+const tertiaryDrops = require('../RAW/tertiaryDrops');
+const listOfMonsters = require('../RAW/monsterList');
 
-let chosenMonster = 'Vorkath';
+let chosenMonster = 'Bloodveld';
 let url = 'https://oldschool.runescape.wiki/w/'+chosenMonster+'?action=raw'
 let exampledata = JSON.stringify(dataExample.dataExample);
 let petList = pets.pets;
@@ -16,7 +16,7 @@ request(url, function(error, response, body) {
   var data = JSON.stringify(body);
   var monsterDataMasterList = handleMonsterData(data);
   let dataForFile = JSON.stringify(monsterDataMasterList, null, 2);
-  fs.writeFileSync('allMonsterData.json', dataForFile);
+  fs.writeFileSync('../NPC/Bloodveld.json', dataForFile);
   }
 );
 // var monsterDataMasterList = handleMonsterData(exampledata);

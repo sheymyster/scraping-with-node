@@ -1,0 +1,169 @@
+{
+  "drops": {
+    "guaranteed": [
+      {
+        "name": "Bones",
+        "quantity": "1",
+        "noted": false
+      }
+    ],
+    "main": [
+      {
+        "name": "Steel axe",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Steel full helm",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Steel scimitar",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Mithril sq shield",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Mithril chainbody",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Black boots",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Rune med helm",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Fire rune",
+        "quantity": "60",
+        "noted": false
+      },
+      {
+        "name": "Blood rune",
+        "quantity": "1, 3, 10, 30",
+        "noted": false
+      },
+      {
+        "name": "Nature talisman",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy guam leaf",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy marrentill",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy tarromin",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy harralander",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy ranarr weed",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy irit leaf",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy avantoe",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy kwuarm",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy cadantine",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy lantadyme",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Grimy dwarf weed",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Coins",
+        "quantity": "10-460",
+        "noted": false
+      },
+      {
+        "name": "Bones",
+        "quantity": "1-3",
+        "noted": false
+      },
+      {
+        "name": "Big bones",
+        "quantity": "1, 3, 4, 5",
+        "noted": false
+      },
+      {
+        "name": "Gold ore",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Meat pizza",
+        "quantity": "1",
+        "noted": false
+      },
+      {
+        "name": "Ecumenical key",
+        "quantity": "1",
+        "noted": false
+      }
+    ],
+    "other": {
+      "pet": [],
+      "tertiary": [
+        {
+          "name": "Looting bag",
+          "quantity": "1",
+          "noted": false
+        },
+        {
+          "name": "Ensouled bloodveld head",
+          "quantity": "1",
+          "noted": false
+        },
+        {
+          "name": "Clue scroll (hard)",
+          "quantity": "1",
+          "noted": false
+        }
+      ]
+    }
+  },
+  "attributes": []
+}
