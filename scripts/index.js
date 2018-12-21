@@ -4,21 +4,58 @@ const fs = require('fs');
 const dataExample = require('../RAW/data');
 const pets = require('../RAW/pets');
 const tertiaryDrops = require('../RAW/tertiaryDrops');
-const listOfMonsters = require('../RAW/monsterList');
+const listOfMonsters = fs.readFileSync('../RAW/monsterList.json');
+let monstersJSON = JSON.parse(listOfMonsters);
 
-let chosenMonster = 'Bloodveld';
-let url = 'https://oldschool.runescape.wiki/w/'+chosenMonster+'?action=raw'
+
+let testList = ['Fire_giant', 'Ice_giant', 'Chaos_druid', 'Iron_dragon'];
 let exampledata = JSON.stringify(dataExample.dataExample);
 let petList = pets.pets;
 let extraDropsList = tertiaryDrops.tertiaryDrops;
 
-request(url, function(error, response, body) {
-  var data = JSON.stringify(body);
-  var monsterDataMasterList = handleMonsterData(data);
-  let dataForFile = JSON.stringify(monsterDataMasterList, null, 2);
-  fs.writeFileSync('../NPC/Bloodveld.json', dataForFile);
+var allNPCdata = {};
+for (i=0; i<testList.length; i++) {
+  pullMonsterData(testList[i]);
+}
+
+(async function() {
+  try {
+
+    await Promise.all(monsterImageUrls.map(async (url) => {
+      try {
+
+        const monsterHtml = await request(url);
+        const $ = cheerio.load(monsterHtml);
+        const parsedLink = $('#file > a').attr('href');
+        let monsterName = parsedLink.slice(13, parsedLink.indexOf(".png"));
+        let uniqueLink = parsedLink.slice(8, parsedLink.indexOf(".png"));
+        monsterNamesAndImageUrls[monsterName] = uniqueLink;
+      } catch (e) {
+        console.log(url);
+      }
+    }));
+
+    let dataForFile = JSON.stringify(monsterNamesAndImageUrls, null, 2);
+    fs.writeFileSync('allMonsterImageLinks.json', dataForFile);
+
+
+  } catch (e) {
+
   }
-);
+})();
+
+
+function pullMonsterData(monsterName) {
+  let url = 'https://oldschool.runescape.wiki/w/'+monsterName+'?action=raw'
+  request(url, function(error, response, body) {
+    let data = JSON.stringify(body);
+    let npcData = handleMonsterData(data);
+    allNPCdata[monsterName] = npcData;
+    //let dataForFile = JSON.stringify(monsterDataMasterList, null, 2);
+    //fs.writeFileSync('../NPC/'+monsterName+'.json', dataForFile);
+    }
+  );
+}
 // var monsterDataMasterList = handleMonsterData(exampledata);
 // console.log(monsterDataMasterList);
 
@@ -27,7 +64,7 @@ function handleMonsterData(data) {
   let parseMonsterDropsResult = parseMonsterDrops(data);
   fullMonsterData.drops = parseMonsterDropsResult.drops;
   let monsterVarianceCount = countMonsterVariants(data);
-  let monsterStatsString = data.slice(data.indexOf("|item1="), data.indexOf("|text"+monsterVarianceCount+"="));
+  let monsterStatsString = data.slice(data.indexOf("version1 ="), data.indexOf("|text"+monsterVarianceCount+"="));
   let monsterStatsAllLevels = [];
   let i;
   let len = monsterVarianceCount;
@@ -167,7 +204,7 @@ function countMonsterVariants(string) {
   let n = 0;
   let len = 5;
   for (i=0; i<len; i++) {
-    if (string.includes("text"+(i+1))) {
+    if (string.includes("version"+(i+1))) {
       n++;
     }
   }

@@ -1,4 +1,4 @@
-const monsterNames = [
+{"names": [
   "Chicken",
   "Drake",
   "Duck",
@@ -965,6 +965,4 @@ const monsterNames = [
   "Verzik Vitur",
   "TzKal-Zuk",
   "Verzik Vitur"
-]
-
-module.exports = {monsterNames: monsterNames};
+]}
