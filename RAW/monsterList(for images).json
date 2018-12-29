@@ -1,4 +1,4 @@
-const monsterNamesForImages = [
+{ "names": [
   "Chicken",
   "Drake_(bird)",
   "Duck",
@@ -831,6 +831,4 @@ const monsterNamesForImages = [
   "Verzik Vitur",
   "TzKal-Zuk",
   "Verzik Vitur"
-]
-
-module.exports = {monsterNamesForImages: monsterNamesForImages};
+]}

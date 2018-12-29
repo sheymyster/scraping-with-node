@@ -1,153 +1,101 @@
-const request = require('request');
+const Promise = require("bluebird");
+const request = Promise.promisifyAll(require("request"), {multiArgs: true});
 const fs = require('fs');
+const async = require('async');
 
-const dataExample = require('../RAW/data');
 const pets = require('../RAW/pets');
 const tertiaryDrops = require('../RAW/tertiaryDrops');
-const listOfMonsters = fs.readFileSync('../RAW/monsterList.json');
-let monstersJSON = JSON.parse(listOfMonsters);
+const listOfMonsterLinks = fs.readFileSync('../RAW/monsterLinks.js');
 
+let linksJSON = JSON.parse(listOfMonsterLinks);
+let testLinks = [];
+for (let k=600; k<linksJSON.links.length; k++) {
+  testLinks.push(linksJSON.links[k]);
+};
 
-let testList = ['Fire_giant', 'Ice_giant', 'Chaos_druid', 'Iron_dragon'];
-let exampledata = JSON.stringify(dataExample.dataExample);
+let testList = [
+'https://oldschool.runescape.wiki/w/Fire_giant?action=raw',
+'https://oldschool.runescape.wiki/w/Hill_Giant?action=raw',
+'https://oldschool.runescape.wiki/w/Vorkath?action=raw',
+'https://oldschool.runescape.wiki/w/Abyssal_demon?action=raw',
+'https://oldschool.runescape.wiki/w/Wolf?action=raw'
+];
+
 let petList = pets.pets;
 let extraDropsList = tertiaryDrops.tertiaryDrops;
 
-var allNPCdata = {};
-for (i=0; i<testList.length; i++) {
-  pullMonsterData(testList[i]);
-}
 
-(async function() {
-  try {
+let allNPCdata = {};
 
-    await Promise.all(monsterImageUrls.map(async (url) => {
-      try {
-
-        const monsterHtml = await request(url);
-        const $ = cheerio.load(monsterHtml);
-        const parsedLink = $('#file > a').attr('href');
-        let monsterName = parsedLink.slice(13, parsedLink.indexOf(".png"));
-        let uniqueLink = parsedLink.slice(8, parsedLink.indexOf(".png"));
-        monsterNamesAndImageUrls[monsterName] = uniqueLink;
-      } catch (e) {
-        console.log(url);
-      }
-    }));
-
-    let dataForFile = JSON.stringify(monsterNamesAndImageUrls, null, 2);
-    fs.writeFileSync('allMonsterImageLinks.json', dataForFile);
-
-
-  } catch (e) {
-
-  }
-})();
-
-
-function pullMonsterData(monsterName) {
-  let url = 'https://oldschool.runescape.wiki/w/'+monsterName+'?action=raw'
-  request(url, function(error, response, body) {
-    let data = JSON.stringify(body);
-    let npcData = handleMonsterData(data);
-    allNPCdata[monsterName] = npcData;
-    //let dataForFile = JSON.stringify(monsterDataMasterList, null, 2);
-    //fs.writeFileSync('../NPC/'+monsterName+'.json', dataForFile);
+Promise.map(testLinks, function(url) {
+    return request.getAsync(url).spread(function(response,body) {
+        return {data: JSON.stringify(body), url: url};
+    });
+}).then(function(results) {
+    for (let i=0; i<results.length; i++) {
+      let npcData = handleMonsterData(results[i].data);
+      let npcURL = results[i].url;
+      let npcName = npcURL.slice(npcURL.indexOf('https://oldschool.runescape.wiki/w/')+35, npcURL.indexOf('?action=raw'));
+      allNPCdata[npcName] = npcData;
     }
-  );
-}
-// var monsterDataMasterList = handleMonsterData(exampledata);
-// console.log(monsterDataMasterList);
+    let dataForFile = JSON.stringify(allNPCdata, null, 2);
+    fs.appendFileSync('../RAW/allNPCdata.json', dataForFile);
+}).catch(function(err) {
+     console.log(err);
+});
 
 function handleMonsterData(data) {
   let fullMonsterData = {};
   let parseMonsterDropsResult = parseMonsterDrops(data);
   fullMonsterData.drops = parseMonsterDropsResult.drops;
-  let monsterVarianceCount = countMonsterVariants(data);
-  let monsterStatsString = data.slice(data.indexOf("version1 ="), data.indexOf("|text"+monsterVarianceCount+"="));
-  let monsterStatsAllLevels = [];
-  let i;
-  let len = monsterVarianceCount;
-  for (i=0; i<len; i++) {
-    let statString = data.slice(data.indexOf("|item"+(i+1)+"="), data.indexOf("text"+(i+1)+"="));
-    let monsterStats = parseMonsterStats(statString);
-    monsterStats.raredroptable = parseMonsterDropsResult.raredroptable;
-    monsterStatsAllLevels.push(monsterStats);
-  };
-  fullMonsterData.attributes = monsterStatsAllLevels;
+  let monsterStatsString = data.slice(data.indexOf("{{Infobox Monster")+20, data.indexOf("|mbns = 0")-2);
+  let parsedStats = parseMonsterStats(monsterStatsString);
+  fullMonsterData.versions = parsedStats;
   return fullMonsterData;
 };
 
 function parseMonsterStats(string) {
-  let lines = string.split("\\n");
-  let attributes = {};
+  let allVersionStats = {};
+  let lines = string.split("|");
+  let statsObject = {};
   var len = lines.length;
-  for (var i=0; i<len; i++) {
-    if (lines[i].includes("|name = ")) {
-      attributes.name = lines[i].split("|name = ").pop();
-    } else if (lines[i].includes("|aggressive = ")) {
-      attributes.aggressive = lines[i].split("|aggressive = ").pop();
-    } else if (lines[i].includes("|members = ")) {
-      attributes.members = lines[i].split("|members = ").pop();
-    } else if (lines[i].includes("|examine = ")) {
-      attributes.examine = lines[i].split("|examine = ").pop();
-    } else if (lines[i].includes("|hit points = ") || lines[i].includes("|hp = ")) {
-      attributes.hitpoints = lines[i].split("= ").pop();
-    } else if (lines[i].includes("|combat = ") || lines[i].includes("|cb = ")) {
-      attributes.combatlvl = lines[i].split("= ").pop();
-    } else if (lines[i].includes("|slaylvl = ")) {
-      attributes.slaylvl = parseInt(lines[i].split("|slaylvl = ").pop(), 10);
-    } else if (lines[i].includes("|poisonous = ")) {
-      attributes.poisonous = lines[i].split("|poisonous = ").pop();
-    } else if (lines[i].includes("|combat = ")) {
-      attributes.combatlvl = parseInt(lines[i].split("|combat = ").pop(), 10);
-    } else if (lines[i].includes("|hit points = ")) {
-      attributes.hitpoints = parseInt(lines[i].split("|hit points = ").pop(), 10);
-    } else if (lines[i].includes("|max hit = ")) {
-      attributes.maxhit = parseInt(lines[i].split("|max hit = ").pop(), 10);
-    } else if (lines[i].includes("|immunepoison = ")) {
-      attributes.immunepoison = lines[i].split("|immunepoison = ").pop();
-    } else if (lines[i].includes("|immunevenom = ")) {
-      attributes.immunevenom = lines[i].split("|immunevenom = ").pop();
-    } else if (lines[i].includes("|att = ")) {
-      attributes.attacklvl = parseInt(lines[i].split("|att = ").pop(), 10);
-    } else if (lines[i].includes("|str = ")) {
-      attributes.strengthlvl = parseInt(lines[i].split("|str = ").pop(), 10);
-    } else if (lines[i].includes("|def = ")) {
-      attributes.defenselvl = parseInt(lines[i].split("|def = ").pop(), 10);
-    } else if (lines[i].includes("|mage = ")) {
-      attributes.magiclvl = parseInt(lines[i].split("|mage = ").pop(), 10);
-    } else if (lines[i].includes("|range = ")) {
-      attributes.rangelvl = parseInt(lines[i].split("|range = ").pop(), 10);
-    } else if (lines[i].includes("|astab = ")) {
-      attributes.stabattack = parseInt(lines[i].split("|astab = ").pop(), 10);
-    } else if (lines[i].includes("|aslash = ")) {
-      attributes.slashattack = parseInt(lines[i].split("|aslash = ").pop(), 10);
-    } else if (lines[i].includes("|acrush = ")) {
-      attributes.crushattack = parseInt(lines[i].split("|acrush = ").pop(), 10);
-    } else if (lines[i].includes("|amagic = ")) {
-      attributes.magicattack = parseInt(lines[i].split("|amagic = ").pop(), 10);
-    } else if (lines[i].includes("|arange = ")) {
-      attributes.rangeattack = parseInt(lines[i].split("|arange = ").pop(), 10);
-    } else if (lines[i].includes("|dstab = ")) {
-      attributes.stabdefense = parseInt(lines[i].split("|dstab = ").pop(), 10);
-    } else if (lines[i].includes("|dslash = ")) {
-      attributes.slashdefense = parseInt(lines[i].split("|dslash = ").pop(), 10);
-    } else if (lines[i].includes("|dcrush = ")) {
-      attributes.crushdefense = parseInt(lines[i].split("|dcrush = ").pop(), 10);
-    } else if (lines[i].includes("|dmagic = ")) {
-      attributes.magicdefense = parseInt(lines[i].split("|dmagic = ").pop(), 10);
-    } else if (lines[i].includes("|drange = ")) {
-      attributes.rangedefense = parseInt(lines[i].split("|drange = ").pop(), 10);
-    } else if (lines[i].includes("|strbns = ")) {
-      attributes.strengthbonus = parseInt(lines[i].split("|strbns = ").pop(), 10);
-    } else if (lines[i].includes("|rngbns = ")) {
-      attributes.rangebonus = parseInt(lines[i].split("|rngbns = ").pop(), 10);
-    } else if (lines[i].includes("|attbns = ")) {
-      attributes.attackbonus = parseInt(lines[i].split("|attbns = ").pop(), 10);
+  for (let i=0; i<len; i++) {
+    let lineProp = lines[i].split("=");
+    let propName = lineProp[0].trim();
+    let propValue;
+    if (lineProp[1]){
+      propValue = lineProp[1].trim().replace('\\n', '');
     }
+    if (!isNaN(propValue)) {
+      propValue = parseInt(propValue, 10);
+    }
+    statsObject[propName] = propValue;
   }
-  return (attributes);
+  let attributeList = ['combat', 'hitpoints', 'immunepoison', 'immunevenom', 'att', 'def',
+    'str', 'mage', 'range', 'astab', 'aslash', 'acrush', 'amagic', 'arange', 'dstab', 'dslash', 'dcrush',
+    'dmagic', 'drange', 'attbns', 'strbns', 'rngbns'];
+  if (statsObject.hasOwnProperty('version1')) {
+    for (let i=1; i<6; i++) {
+      let versionObject = {};
+      if (statsObject.hasOwnProperty('version' + i)) {
+        for (let j=0; j<attributeList.length; j++) {
+          if (statsObject.hasOwnProperty(attributeList[j] + i)) {
+            versionObject[attributeList[j]] = statsObject[attributeList[j] + i];
+          } else {
+            versionObject[attributeList[j]] = statsObject[attributeList[j]];
+          }
+        }
+        allVersionStats[statsObject['version' + i]] = versionObject;
+      }
+    }
+  } else {
+    let versionObject = {};
+    for (let j=0; j<attributeList.length; j++) {
+      versionObject[attributeList[j]] = statsObject[attributeList[j]];
+    }
+    allVersionStats['Lv ' + statsObject.combat] = versionObject;
+  }
+  return (allVersionStats);
 };
 
 function parseMonsterDrops(data) {
@@ -197,18 +145,6 @@ function parseMonsterDrops(data) {
   let drops = {"guaranteed": guaranteedDrops.slice(), "main": mainDrops.slice(), "other": Object.assign(otherDrops)};
 
   return {"drops": drops, "raredroptable": rareDropTable};
-};
-
-function countMonsterVariants(string) {
-  let i;
-  let n = 0;
-  let len = 5;
-  for (i=0; i<len; i++) {
-    if (string.includes("version"+(i+1))) {
-      n++;
-    }
-  }
-  return n;
 };
 
 /** Function that count occurrences of a substring in a string;

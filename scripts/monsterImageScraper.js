@@ -33,7 +33,6 @@ let monsterNamesAndImageUrls = {};
 
     await Promise.all(monsterImageUrls.map(async (url) => {
       try {
-
         const monsterHtml = await request(url);
         const $ = cheerio.load(monsterHtml);
         const parsedLink = $('#file > a').attr('href');
