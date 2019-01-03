@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.1",
+    "big-number": "^2.0.0",
     "cheerio": "^1.0.0-rc.2",
+    "math.js": "^1.1.43",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   }
