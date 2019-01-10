@@ -1,11 +1,39 @@
 const fs = require('fs');
 
-
-
 let equipmentList = fs.readFileSync("../allEquipmentStats.json", {"encoding":"utf8"});
 let equipmentJSON = JSON.parse(equipmentList);
 
+let weapons = Object.keys(equipmentJSON.weapon);
+let i;
+let n = weapons.length;
+for (i=0; i<n; i++) {
+  let attackOptions = Object.keys(equipmentJSON.weapon[weapons[i]].attackoptions);
+  let j;
+  let m = attackOptions.length;
+  for (j=0; j<m; j++) {
+    if (equipmentJSON.weapon[weapons[i]].combattype === "melee") {
+      Object.defineProperty(equipmentJSON.weapon[weapons[i]].attackoptions[j+1], "type",
+          Object.getOwnPropertyDescriptor(equipmentJSON.weapon[weapons[i]].attackoptions[j+1], "style"));
+      Object.defineProperty(equipmentJSON.weapon[weapons[i]].attackoptions[j+1], "style",
+          Object.getOwnPropertyDescriptor(equipmentJSON.weapon[weapons[i]].attackoptions[j+1], "stance"));
+      delete equipmentJSON.weapon[weapons[i]].attackoptions[j+1]["stance"];
+    } else if (equipmentJSON.weapon[weapons[i]].combattype === "ranged") {
+      equipmentJSON.weapon[weapons[i]].attackoptions[j+1].type = "ranged"
+      Object.defineProperty(equipmentJSON.weapon[weapons[i]].attackoptions[j+1], "style",
+          Object.getOwnPropertyDescriptor(equipmentJSON.weapon[weapons[i]].attackoptions[j+1], "name"));
+    } else {
+      console.log('not range or melee');
+    }
+  }
+}
 
+fs.writeFileSync("../allEquipmentStats2.json", JSON.stringify(equipmentJSON, null, 2));
+
+
+
+
+
+/*
 let categoryKeys = Object.keys(equipmentJSON);
 let i;
 let n = categoryKeys.length;
@@ -33,7 +61,7 @@ for (i=0; i<n; i++) {
 
 fs.writeFileSync("../allEquipmentStats2.json", JSON.stringify(equipmentJSON, null, 2));
 
-
+*/
 
 
 
