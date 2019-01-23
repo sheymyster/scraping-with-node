@@ -13,12 +13,11 @@ for (let k=600; k<linksJSON.links.length; k++) {
   testLinks.push(linksJSON.links[k]);
 };
 
-let testList = [
-'https://oldschool.runescape.wiki/w/Fire_giant?action=raw',
-'https://oldschool.runescape.wiki/w/Hill_Giant?action=raw',
-'https://oldschool.runescape.wiki/w/Vorkath?action=raw',
-'https://oldschool.runescape.wiki/w/Abyssal_demon?action=raw',
-'https://oldschool.runescape.wiki/w/Wolf?action=raw'
+let newMonsters = [
+'https://oldschool.runescape.wiki/w/Drake?action=raw',
+'https://oldschool.runescape.wiki/w/Alchemical_Hydra?action=raw',
+'https://oldschool.runescape.wiki/w/Hydra?action=raw',
+'https://oldschool.runescape.wiki/w/Wyrm?action=raw'
 ];
 
 let petList = pets.pets;
@@ -27,7 +26,7 @@ let extraDropsList = tertiaryDrops.tertiaryDrops;
 
 let allNPCdata = {};
 
-Promise.map(testLinks, function(url) {
+Promise.map(newMonsters, function(url) {
     return request.getAsync(url).spread(function(response,body) {
         return {data: JSON.stringify(body), url: url};
     });

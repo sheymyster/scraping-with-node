@@ -25,6 +25,7 @@ const pets = [
 "Tzrek-jad",
 "Venenatis spiderling",
 "Vet'ion jr.",
-"Vorki"];
+"Vorki",
+"Ikkle hydra"];
 
 module.exports = {pets: pets};
